@@ -8,7 +8,7 @@ import altair as alt
 def carregar_dados(base):
     """Load data from local CSV files in the 'data' folder."""
     try:
-        file_path = f"DaniloCesar-edu/mapadedados/DACOR/dados/{base}.csv"  # Assuming files are named like 'Base_SAEB.csv'
+        file_path = f"DACOR/dados/{base}.csv"  # Assuming files are named like 'Base_SAEB.csv'
         df = pd.read_csv(file_path)
         return df
     except FileNotFoundError:

@@ -1,0 +1,1821 @@
+ano,disciplina,raca_cor,value,presenca,cont_presenca,nota,cont_nota
+2010,CH,Amarela,*,-,0,Sem nota,24850
+2010,CH,Amarela,A,Falta,24716,Acima de 800,182
+2010,CH,Amarela,B,Presença,74109,Entre 800 e 700,3388
+2010,CH,Amarela,C,Eliminação,134,Entre 700 e 600,18784
+2010,CH,Amarela,D,-,0,Entre 600 e 500,31551
+2010,CH,Amarela,E,-,0,Entre 500 e 400,16167
+2010,CH,Amarela,F,-,0,Abaixo de 400,4037
+2010,CH,Branca,*,-,1,Sem nota,493360
+2010,CH,Branca,A,Falta,491246,Acima de 800,3737
+2010,CH,Branca,B,Presença,1491519,Entre 800 e 700,81000
+2010,CH,Branca,C,Eliminação,2113,Entre 700 e 600,422340
+2010,CH,Branca,D,-,0,Entre 600 e 500,614459
+2010,CH,Branca,E,-,0,Entre 500 e 400,300047
+2010,CH,Branca,F,-,0,Abaixo de 400,69936
+2010,CH,Indígena,*,-,0,Sem nota,9018
+2010,CH,Indígena,A,Falta,8958,Acima de 800,16
+2010,CH,Indígena,B,Presença,21708,Entre 800 e 700,322
+2010,CH,Indígena,C,Eliminação,60,Entre 700 e 600,3278
+2010,CH,Indígena,D,-,0,Entre 600 e 500,8848
+2010,CH,Indígena,E,-,0,Entre 500 e 400,7135
+2010,CH,Indígena,F,-,0,Abaixo de 400,2109
+2010,CH,Parda,*,-,1,Sem nota,501322
+2010,CH,Parda,A,Falta,498682,Acima de 800,1173
+2010,CH,Parda,B,Presença,1299235,Entre 800 e 700,33265
+2010,CH,Parda,C,Eliminação,2639,Entre 700 e 600,267685
+2010,CH,Parda,D,-,0,Entre 600 e 500,545001
+2010,CH,Parda,E,-,0,Entre 500 e 400,355905
+2010,CH,Parda,F,-,0,Abaixo de 400,96206
+2010,CH,Preta,*,-,0,Sem nota,163433
+2010,CH,Preta,A,Falta,162620,Acima de 800,190
+2010,CH,Preta,B,Presença,378778,Entre 800 e 700,8365
+2010,CH,Preta,C,Eliminação,813,Entre 700 e 600,82220
+2010,CH,Preta,D,-,0,Entre 600 e 500,161735
+2010,CH,Preta,E,-,0,Entre 500 e 400,98663
+2010,CH,Preta,F,-,0,Abaixo de 400,27605
+2010,CN,Amarela,*,-,0,Sem nota,24850
+2010,CN,Amarela,A,Falta,24716,Acima de 800,11
+2010,CN,Amarela,B,Presença,74109,Entre 800 e 700,1001
+2010,CN,Amarela,C,Eliminação,134,Entre 700 e 600,7363
+2010,CN,Amarela,D,-,0,Entre 600 e 500,26278
+2010,CN,Amarela,E,-,0,Entre 500 e 400,29511
+2010,CN,Amarela,F,-,0,Abaixo de 400,9945
+2010,CN,Branca,*,-,1,Sem nota,493360
+2010,CN,Branca,A,Falta,491246,Acima de 800,92
+2010,CN,Branca,B,Presença,1491519,Entre 800 e 700,13817
+2010,CN,Branca,C,Eliminação,2113,Entre 700 e 600,158059
+2010,CN,Branca,D,-,0,Entre 600 e 500,583512
+2010,CN,Branca,E,-,0,Entre 500 e 400,565536
+2010,CN,Branca,F,-,0,Abaixo de 400,170503
+2010,CN,Indígena,*,-,0,Sem nota,9018
+2010,CN,Indígena,A,Falta,8958,Acima de 800,0
+2010,CN,Indígena,B,Presença,21708,Entre 800 e 700,27
+2010,CN,Indígena,C,Eliminação,60,Entre 700 e 600,648
+2010,CN,Indígena,D,-,0,Entre 600 e 500,5387
+2010,CN,Indígena,E,-,0,Entre 500 e 400,10617
+2010,CN,Indígena,F,-,0,Abaixo de 400,5029
+2010,CN,Parda,*,-,1,Sem nota,501322
+2010,CN,Parda,A,Falta,498682,Acima de 800,20
+2010,CN,Parda,B,Presença,1299235,Entre 800 e 700,3776
+2010,CN,Parda,C,Eliminação,2639,Entre 700 e 600,61227
+2010,CN,Parda,D,-,0,Entre 600 e 500,395324
+2010,CN,Parda,E,-,0,Entre 500 e 400,603036
+2010,CN,Parda,F,-,0,Abaixo de 400,235852
+2010,CN,Preta,*,-,0,Sem nota,163433
+2010,CN,Preta,A,Falta,162620,Acima de 800,0
+2010,CN,Preta,B,Presença,378778,Entre 800 e 700,584
+2010,CN,Preta,C,Eliminação,813,Entre 700 e 600,14504
+2010,CN,Preta,D,-,0,Entre 600 e 500,114976
+2010,CN,Preta,E,-,0,Entre 500 e 400,178001
+2010,CN,Preta,F,-,0,Abaixo de 400,70713
+2010,LP,Amarela,*,-,0,Sem nota,27432
+2010,LP,Amarela,A,Falta,27084,Acima de 800,0
+2010,LP,Amarela,B,Presença,71527,Entre 800 e 700,358
+2010,LP,Amarela,C,Eliminação,348,Entre 700 e 600,9353
+2010,LP,Amarela,D,-,0,Entre 600 e 500,34537
+2010,LP,Amarela,E,-,0,Entre 500 e 400,21684
+2010,LP,Amarela,F,-,0,Abaixo de 400,5595
+2010,LP,Branca,*,-,1,Sem nota,546492
+2010,LP,Branca,A,Falta,540696,Acima de 800,1
+2010,LP,Branca,B,Presença,1438387,Entre 800 e 700,7724
+2010,LP,Branca,C,Eliminação,5795,Entre 700 e 600,226427
+2010,LP,Branca,D,-,0,Entre 600 e 500,710371
+2010,LP,Branca,E,-,0,Entre 500 e 400,396061
+2010,LP,Branca,F,-,0,Abaixo de 400,97803
+2010,LP,Indígena,*,-,0,Sem nota,9985
+2010,LP,Indígena,A,Falta,9888,Acima de 800,0
+2010,LP,Indígena,B,Presença,20741,Entre 800 e 700,11
+2010,LP,Indígena,C,Eliminação,97,Entre 700 e 600,934
+2010,LP,Indígena,D,-,0,Entre 600 e 500,7702
+2010,LP,Indígena,E,-,0,Entre 500 e 400,8715
+2010,LP,Indígena,F,-,0,Abaixo de 400,3379
+2010,LP,Parda,*,-,1,Sem nota,551879
+2010,LP,Parda,A,Falta,545849,Acima de 800,1
+2010,LP,Parda,B,Presença,1248678,Entre 800 e 700,1916
+2010,LP,Parda,C,Eliminação,6029,Entre 700 e 600,91868
+2010,LP,Parda,D,-,0,Entre 600 e 500,539344
+2010,LP,Parda,E,-,0,Entre 500 e 400,462968
+2010,LP,Parda,F,-,0,Abaixo de 400,152581
+2010,LP,Preta,*,-,0,Sem nota,179362
+2010,LP,Preta,A,Falta,177362,Acima de 800,0
+2010,LP,Preta,B,Presença,362849,Entre 800 e 700,342
+2010,LP,Preta,C,Eliminação,2000,Entre 700 e 600,24236
+2010,LP,Preta,D,-,0,Entre 600 e 500,162499
+2010,LP,Preta,E,-,0,Entre 500 e 400,132737
+2010,LP,Preta,F,-,0,Abaixo de 400,43035
+2010,MT,Amarela,*,-,0,Sem nota,27432
+2010,MT,Amarela,A,Falta,27084,Acima de 800,1657
+2010,MT,Amarela,B,Presença,71527,Entre 800 e 700,4974
+2010,MT,Amarela,C,Eliminação,348,Entre 700 e 600,11161
+2010,MT,Amarela,D,-,0,Entre 600 e 500,20030
+2010,MT,Amarela,E,-,0,Entre 500 e 400,20936
+2010,MT,Amarela,F,-,0,Abaixo de 400,12769
+2010,MT,Branca,*,-,1,Sem nota,546492
+2010,MT,Branca,A,Falta,540696,Acima de 800,21586
+2010,MT,Branca,B,Presença,1438387,Entre 800 e 700,99376
+2010,MT,Branca,C,Eliminação,5795,Entre 700 e 600,275802
+2010,MT,Branca,D,-,0,Entre 600 e 500,437563
+2010,MT,Branca,E,-,0,Entre 500 e 400,387737
+2010,MT,Branca,F,-,0,Abaixo de 400,216323
+2010,MT,Indígena,*,-,0,Sem nota,9985
+2010,MT,Indígena,A,Falta,9888,Acima de 800,52
+2010,MT,Indígena,B,Presença,20741,Entre 800 e 700,321
+2010,MT,Indígena,C,Eliminação,97,Entre 700 e 600,1791
+2010,MT,Indígena,D,-,0,Entre 600 e 500,4991
+2010,MT,Indígena,E,-,0,Entre 500 e 400,7606
+2010,MT,Indígena,F,-,0,Abaixo de 400,5980
+2010,MT,Parda,*,-,1,Sem nota,551879
+2010,MT,Parda,A,Falta,545849,Acima de 800,5013
+2010,MT,Parda,B,Presença,1248678,Entre 800 e 700,31175
+2010,MT,Parda,C,Eliminação,6029,Entre 700 e 600,138164
+2010,MT,Parda,D,-,0,Entre 600 e 500,334637
+2010,MT,Parda,E,-,0,Entre 500 e 400,435781
+2010,MT,Parda,F,-,0,Abaixo de 400,303908
+2010,MT,Preta,*,-,0,Sem nota,179362
+2010,MT,Preta,A,Falta,177362,Acima de 800,770
+2010,MT,Preta,B,Presença,362849,Entre 800 e 700,6470
+2010,MT,Preta,C,Eliminação,2000,Entre 700 e 600,36265
+2010,MT,Preta,D,-,0,Entre 600 e 500,97639
+2010,MT,Preta,E,-,0,Entre 500 e 400,129524
+2010,MT,Preta,F,-,0,Abaixo de 400,92181
+2011,CH,Amarela,*,-,0,Sem nota,30430
+2011,CH,Amarela,A,Falta,30397,Acima de 800,0
+2011,CH,Amarela,B,Presença,92628,Entre 800 e 700,309
+2011,CH,Amarela,C,Eliminação,33,Entre 700 e 600,5653
+2011,CH,Amarela,D,-,0,Entre 600 e 500,32232
+2011,CH,Amarela,E,-,0,Entre 500 e 400,38705
+2011,CH,Amarela,F,-,0,Abaixo de 400,15729
+2011,CH,Branca,*,-,0,Sem nota,526306
+2011,CH,Branca,A,Falta,525657,Acima de 800,0
+2011,CH,Branca,B,Presença,1707641,Entre 800 e 700,7758
+2011,CH,Branca,C,Eliminação,649,Entre 700 e 600,141420
+2011,CH,Branca,D,-,0,Entre 600 e 500,657989
+2011,CH,Branca,E,-,0,Entre 500 e 400,657685
+2011,CH,Branca,F,-,0,Abaixo de 400,242789
+2011,CH,Indígena,*,-,0,Sem nota,9810
+2011,CH,Indígena,A,Falta,9790,Acima de 800,0
+2011,CH,Indígena,B,Presença,24443,Entre 800 e 700,23
+2011,CH,Indígena,C,Eliminação,20,Entre 700 e 600,596
+2011,CH,Indígena,D,-,0,Entre 600 e 500,5554
+2011,CH,Indígena,E,-,0,Entre 500 e 400,11114
+2011,CH,Indígena,F,-,0,Abaixo de 400,7156
+2011,CH,Parda,*,-,0,Sem nota,589172
+2011,CH,Parda,A,Falta,588343,Acima de 800,0
+2011,CH,Parda,B,Presença,1591438,Entre 800 e 700,2559
+2011,CH,Parda,C,Eliminação,829,Entre 700 e 600,63130
+2011,CH,Parda,D,-,0,Entre 600 e 500,467598
+2011,CH,Parda,E,-,0,Entre 500 e 400,701524
+2011,CH,Parda,F,-,0,Abaixo de 400,356627
+2011,CH,Preta,*,-,0,Sem nota,190365
+2011,CH,Preta,A,Falta,190091,Acima de 800,0
+2011,CH,Preta,B,Presença,467113,Entre 800 e 700,521
+2011,CH,Preta,C,Eliminação,274,Entre 700 e 600,16983
+2011,CH,Preta,D,-,0,Entre 600 e 500,145829
+2011,CH,Preta,E,-,0,Entre 500 e 400,204939
+2011,CH,Preta,F,-,0,Abaixo de 400,98841
+2011,CN,Amarela,*,-,0,Sem nota,30430
+2011,CN,Amarela,A,Falta,30397,Acima de 800,57
+2011,CN,Amarela,B,Presença,92628,Entre 800 e 700,1157
+2011,CN,Amarela,C,Eliminação,33,Entre 700 e 600,6005
+2011,CN,Amarela,D,-,0,Entre 600 e 500,25390
+2011,CN,Amarela,E,-,0,Entre 500 e 400,40304
+2011,CN,Amarela,F,-,0,Abaixo de 400,19715
+2011,CN,Branca,*,-,0,Sem nota,526306
+2011,CN,Branca,A,Falta,525657,Acima de 800,717
+2011,CN,Branca,B,Presença,1707641,Entre 800 e 700,17792
+2011,CN,Branca,C,Eliminação,649,Entre 700 e 600,130599
+2011,CN,Branca,D,-,0,Entre 600 e 500,557764
+2011,CN,Branca,E,-,0,Entre 500 e 400,701809
+2011,CN,Branca,F,-,0,Abaixo de 400,298960
+2011,CN,Indígena,*,-,0,Sem nota,9810
+2011,CN,Indígena,A,Falta,9790,Acima de 800,1
+2011,CN,Indígena,B,Presença,24443,Entre 800 e 700,40
+2011,CN,Indígena,C,Eliminação,20,Entre 700 e 600,423
+2011,CN,Indígena,D,-,0,Entre 600 e 500,4385
+2011,CN,Indígena,E,-,0,Entre 500 e 400,11332
+2011,CN,Indígena,F,-,0,Abaixo de 400,8262
+2011,CN,Parda,*,-,0,Sem nota,589172
+2011,CN,Parda,A,Falta,588343,Acima de 800,183
+2011,CN,Parda,B,Presença,1591438,Entre 800 e 700,4678
+2011,CN,Parda,C,Eliminação,829,Entre 700 e 600,47502
+2011,CN,Parda,D,-,0,Entre 600 e 500,368325
+2011,CN,Parda,E,-,0,Entre 500 e 400,737027
+2011,CN,Parda,F,-,0,Abaixo de 400,433723
+2011,CN,Preta,*,-,0,Sem nota,190365
+2011,CN,Preta,A,Falta,190091,Acima de 800,24
+2011,CN,Preta,B,Presença,467113,Entre 800 e 700,714
+2011,CN,Preta,C,Eliminação,274,Entre 700 e 600,10723
+2011,CN,Preta,D,-,0,Entre 600 e 500,108011
+2011,CN,Preta,E,-,0,Entre 500 e 400,220792
+2011,CN,Preta,F,-,0,Abaixo de 400,126849
+2011,LP,Amarela,*,-,0,Sem nota,32994
+2011,LP,Amarela,A,Falta,32946,Acima de 800,0
+2011,LP,Amarela,B,Presença,90064,Entre 800 e 700,342
+2011,LP,Amarela,C,Eliminação,48,Entre 700 e 600,12432
+2011,LP,Amarela,D,-,0,Entre 600 e 500,47353
+2011,LP,Amarela,E,-,0,Entre 500 e 400,24411
+2011,LP,Amarela,F,-,0,Abaixo de 400,5526
+2011,LP,Branca,*,-,0,Sem nota,572361
+2011,LP,Branca,A,Falta,571620,Acima de 800,0
+2011,LP,Branca,B,Presença,1661586,Entre 800 e 700,8581
+2011,LP,Branca,C,Eliminação,741,Entre 700 e 600,304673
+2011,LP,Branca,D,-,0,Entre 600 e 500,874440
+2011,LP,Branca,E,-,0,Entre 500 e 400,389362
+2011,LP,Branca,F,-,0,Abaixo de 400,84530
+2011,LP,Indígena,*,-,0,Sem nota,10632
+2011,LP,Indígena,A,Falta,10607,Acima de 800,0
+2011,LP,Indígena,B,Presença,23621,Entre 800 e 700,18
+2011,LP,Indígena,C,Eliminação,25,Entre 700 e 600,1342
+2011,LP,Indígena,D,-,0,Entre 600 e 500,10258
+2011,LP,Indígena,E,-,0,Entre 500 e 400,9200
+2011,LP,Indígena,F,-,0,Abaixo de 400,2803
+2011,LP,Parda,*,-,0,Sem nota,635877
+2011,LP,Parda,A,Falta,635032,Acima de 800,0
+2011,LP,Parda,B,Presença,1544733,Entre 800 e 700,2365
+2011,LP,Parda,C,Eliminação,845,Entre 700 e 600,137146
+2011,LP,Parda,D,-,0,Entre 600 e 500,760733
+2011,LP,Parda,E,-,0,Entre 500 e 400,513134
+2011,LP,Parda,F,-,0,Abaixo de 400,131355
+2011,LP,Preta,*,-,0,Sem nota,205031
+2011,LP,Preta,A,Falta,204774,Acima de 800,0
+2011,LP,Preta,B,Presença,452447,Entre 800 e 700,459
+2011,LP,Preta,C,Eliminação,257,Entre 700 e 600,36927
+2011,LP,Preta,D,-,0,Entre 600 e 500,228809
+2011,LP,Preta,E,-,0,Entre 500 e 400,148858
+2011,LP,Preta,F,-,0,Abaixo de 400,37394
+2011,MT,Amarela,*,-,0,Sem nota,32994
+2011,MT,Amarela,A,Falta,32946,Acima de 800,2304
+2011,MT,Amarela,B,Presença,90064,Entre 800 e 700,7029
+2011,MT,Amarela,C,Eliminação,48,Entre 700 e 600,16171
+2011,MT,Amarela,D,-,0,Entre 600 e 500,22627
+2011,MT,Amarela,E,-,0,Entre 500 e 400,26265
+2011,MT,Amarela,F,-,0,Abaixo de 400,15668
+2011,MT,Branca,*,-,0,Sem nota,572361
+2011,MT,Branca,A,Falta,571620,Acima de 800,35676
+2011,MT,Branca,B,Presença,1661586,Entre 800 e 700,154126
+2011,MT,Branca,C,Eliminação,741,Entre 700 e 600,377309
+2011,MT,Branca,D,-,0,Entre 600 e 500,442123
+2011,MT,Branca,E,-,0,Entre 500 e 400,423266
+2011,MT,Branca,F,-,0,Abaixo de 400,229086
+2011,MT,Indígena,*,-,0,Sem nota,10632
+2011,MT,Indígena,A,Falta,10607,Acima de 800,75
+2011,MT,Indígena,B,Presença,23621,Entre 800 e 700,522
+2011,MT,Indígena,C,Eliminação,25,Entre 700 e 600,2470
+2011,MT,Indígena,D,-,0,Entre 600 e 500,5483
+2011,MT,Indígena,E,-,0,Entre 500 e 400,8635
+2011,MT,Indígena,F,-,0,Abaixo de 400,6436
+2011,MT,Parda,*,-,0,Sem nota,635877
+2011,MT,Parda,A,Falta,635032,Acima de 800,8843
+2011,MT,Parda,B,Presença,1544733,Entre 800 e 700,55578
+2011,MT,Parda,C,Eliminação,845,Entre 700 e 600,217359
+2011,MT,Parda,D,-,0,Entre 600 e 500,387121
+2011,MT,Parda,E,-,0,Entre 500 e 400,530259
+2011,MT,Parda,F,-,0,Abaixo de 400,345573
+2011,MT,Preta,*,-,0,Sem nota,205031
+2011,MT,Preta,A,Falta,204774,Acima de 800,1458
+2011,MT,Preta,B,Presença,452447,Entre 800 e 700,12448
+2011,MT,Preta,C,Eliminação,257,Entre 700 e 600,59489
+2011,MT,Preta,D,-,0,Entre 600 e 500,115277
+2011,MT,Preta,E,-,0,Entre 500 e 400,160045
+2011,MT,Preta,F,-,0,Abaixo de 400,103730
+2012,CH,Amarela,*,-,0,Sem nota,34458
+2012,CH,Amarela,A,Falta,34365,Acima de 800,15
+2012,CH,Amarela,B,Presença,97862,Entre 800 e 700,1810
+2012,CH,Amarela,C,Eliminação,93,Entre 700 e 600,15683
+2012,CH,Amarela,D,-,0,Entre 600 e 500,43322
+2012,CH,Amarela,E,-,0,Entre 500 e 400,29955
+2012,CH,Amarela,F,-,0,Abaixo de 400,7077
+2012,CH,Branca,*,-,0,Sem nota,605176
+2012,CH,Branca,A,Falta,603788,Acima de 800,484
+2012,CH,Branca,B,Presença,1816196,Entre 800 e 700,47017
+2012,CH,Branca,C,Eliminação,1388,Entre 700 e 600,369528
+2012,CH,Branca,D,-,0,Entre 600 e 500,803580
+2012,CH,Branca,E,-,0,Entre 500 e 400,486023
+2012,CH,Branca,F,-,0,Abaixo de 400,109564
+2012,CH,Indígena,*,-,0,Sem nota,10797
+2012,CH,Indígena,A,Falta,10764,Acima de 800,3
+2012,CH,Indígena,B,Presença,24959,Entre 800 e 700,136
+2012,CH,Indígena,C,Eliminação,33,Entre 700 e 600,1950
+2012,CH,Indígena,D,-,0,Entre 600 e 500,9488
+2012,CH,Indígena,E,-,0,Entre 500 e 400,10243
+2012,CH,Indígena,F,-,0,Abaixo de 400,3139
+2012,CH,Parda,*,-,0,Sem nota,681564
+2012,CH,Parda,A,Falta,679990,Acima de 800,150
+2012,CH,Parda,B,Presença,1718715,Entre 800 e 700,17513
+2012,CH,Parda,C,Eliminação,1574,Entre 700 e 600,205252
+2012,CH,Parda,D,-,0,Entre 600 e 500,720927
+2012,CH,Parda,E,-,0,Entre 500 e 400,610392
+2012,CH,Parda,F,-,0,Abaixo de 400,164481
+2012,CH,Preta,*,-,0,Sem nota,208189
+2012,CH,Preta,A,Falta,207662,Acima de 800,34
+2012,CH,Preta,B,Presença,485932,Entre 800 e 700,4078
+2012,CH,Preta,C,Eliminação,527,Entre 700 e 600,60581
+2012,CH,Preta,D,-,0,Entre 600 e 500,214869
+2012,CH,Preta,E,-,0,Entre 500 e 400,164445
+2012,CH,Preta,F,-,0,Abaixo de 400,41925
+2012,CN,Amarela,*,-,0,Sem nota,34458
+2012,CN,Amarela,A,Falta,34365,Acima de 800,11
+2012,CN,Amarela,B,Presença,97862,Entre 800 e 700,1009
+2012,CN,Amarela,C,Eliminação,93,Entre 700 e 600,7706
+2012,CN,Amarela,D,-,0,Entre 600 e 500,26347
+2012,CN,Amarela,E,-,0,Entre 500 e 400,44599
+2012,CN,Amarela,F,-,0,Abaixo de 400,18190
+2012,CN,Branca,*,-,0,Sem nota,605176
+2012,CN,Branca,A,Falta,603788,Acima de 800,191
+2012,CN,Branca,B,Presença,1816196,Entre 800 e 700,15866
+2012,CN,Branca,C,Eliminação,1388,Entre 700 e 600,167213
+2012,CN,Branca,D,-,0,Entre 600 e 500,586725
+2012,CN,Branca,E,-,0,Entre 500 e 400,773775
+2012,CN,Branca,F,-,0,Abaixo de 400,272426
+2012,CN,Indígena,*,-,0,Sem nota,10797
+2012,CN,Indígena,A,Falta,10764,Acima de 800,0
+2012,CN,Indígena,B,Presença,24959,Entre 800 e 700,34
+2012,CN,Indígena,C,Eliminação,33,Entre 700 e 600,533
+2012,CN,Indígena,D,-,0,Entre 600 e 500,4481
+2012,CN,Indígena,E,-,0,Entre 500 e 400,12756
+2012,CN,Indígena,F,-,0,Abaixo de 400,7155
+2012,CN,Parda,*,-,0,Sem nota,681564
+2012,CN,Parda,A,Falta,679990,Acima de 800,44
+2012,CN,Parda,B,Presença,1718715,Entre 800 e 700,4432
+2012,CN,Parda,C,Eliminação,1574,Entre 700 e 600,61291
+2012,CN,Parda,D,-,0,Entre 600 e 500,391307
+2012,CN,Parda,E,-,0,Entre 500 e 400,859261
+2012,CN,Parda,F,-,0,Abaixo de 400,402380
+2012,CN,Preta,*,-,0,Sem nota,208189
+2012,CN,Preta,A,Falta,207662,Acima de 800,15
+2012,CN,Preta,B,Presença,485932,Entre 800 e 700,661
+2012,CN,Preta,C,Eliminação,527,Entre 700 e 600,14082
+2012,CN,Preta,D,-,0,Entre 600 e 500,112685
+2012,CN,Preta,E,-,0,Entre 500 e 400,246383
+2012,CN,Preta,F,-,0,Abaixo de 400,112106
+2012,LP,Amarela,*,-,0,Sem nota,37219
+2012,LP,Amarela,A,Falta,37152,Acima de 800,0
+2012,LP,Amarela,B,Presença,95101,Entre 800 e 700,146
+2012,LP,Amarela,C,Eliminação,67,Entre 700 e 600,6617
+2012,LP,Amarela,D,-,0,Entre 600 e 500,40266
+2012,LP,Amarela,E,-,0,Entre 500 e 400,38897
+2012,LP,Amarela,F,-,0,Abaixo de 400,9175
+2012,LP,Branca,*,-,0,Sem nota,655349
+2012,LP,Branca,A,Falta,654370,Acima de 800,6
+2012,LP,Branca,B,Presença,1766023,Entre 800 e 700,3592
+2012,LP,Branca,C,Eliminação,979,Entre 700 e 600,171468
+2012,LP,Branca,D,-,0,Entre 600 e 500,821188
+2012,LP,Branca,E,-,0,Entre 500 e 400,630069
+2012,LP,Branca,F,-,0,Abaixo de 400,139700
+2012,LP,Indígena,*,-,0,Sem nota,11789
+2012,LP,Indígena,A,Falta,11764,Acima de 800,0
+2012,LP,Indígena,B,Presença,23967,Entre 800 e 700,11
+2012,LP,Indígena,C,Eliminação,25,Entre 700 e 600,621
+2012,LP,Indígena,D,-,0,Entre 600 e 500,7030
+2012,LP,Indígena,E,-,0,Entre 500 e 400,12017
+2012,LP,Indígena,F,-,0,Abaixo de 400,4288
+2012,LP,Parda,*,-,0,Sem nota,734435
+2012,LP,Parda,A,Falta,733246,Acima de 800,2
+2012,LP,Parda,B,Presença,1665844,Entre 800 e 700,1201
+2012,LP,Parda,C,Eliminação,1189,Entre 700 e 600,73730
+2012,LP,Parda,D,-,0,Entre 600 e 500,603775
+2012,LP,Parda,E,-,0,Entre 500 e 400,759510
+2012,LP,Parda,F,-,0,Abaixo de 400,227626
+2012,LP,Preta,*,-,0,Sem nota,223880
+2012,LP,Preta,A,Falta,223466,Acima de 800,0
+2012,LP,Preta,B,Presença,470241,Entre 800 e 700,212
+2012,LP,Preta,C,Eliminação,414,Entre 700 e 600,19191
+2012,LP,Preta,D,-,0,Entre 600 e 500,177185
+2012,LP,Preta,E,-,0,Entre 500 e 400,212228
+2012,LP,Preta,F,-,0,Abaixo de 400,61425
+2012,MT,Amarela,*,-,0,Sem nota,37219
+2012,MT,Amarela,A,Falta,37152,Acima de 800,2150
+2012,MT,Amarela,B,Presença,95101,Entre 800 e 700,6899
+2012,MT,Amarela,C,Eliminação,67,Entre 700 e 600,16103
+2012,MT,Amarela,D,-,0,Entre 600 e 500,25614
+2012,MT,Amarela,E,-,0,Entre 500 e 400,25694
+2012,MT,Amarela,F,-,0,Abaixo de 400,18641
+2012,MT,Branca,*,-,0,Sem nota,655349
+2012,MT,Branca,A,Falta,654370,Acima de 800,34590
+2012,MT,Branca,B,Presença,1766023,Entre 800 e 700,148191
+2012,MT,Branca,C,Eliminação,979,Entre 700 e 600,380290
+2012,MT,Branca,D,-,0,Entre 600 e 500,504608
+2012,MT,Branca,E,-,0,Entre 500 e 400,418648
+2012,MT,Branca,F,-,0,Abaixo de 400,279696
+2012,MT,Indígena,*,-,0,Sem nota,11789
+2012,MT,Indígena,A,Falta,11764,Acima de 800,68
+2012,MT,Indígena,B,Presença,23967,Entre 800 e 700,489
+2012,MT,Indígena,C,Eliminação,25,Entre 700 e 600,2312
+2012,MT,Indígena,D,-,0,Entre 600 e 500,5567
+2012,MT,Indígena,E,-,0,Entre 500 e 400,7731
+2012,MT,Indígena,F,-,0,Abaixo de 400,7800
+2012,MT,Parda,*,-,0,Sem nota,734435
+2012,MT,Parda,A,Falta,733246,Acima de 800,9337
+2012,MT,Parda,B,Presença,1665844,Entre 800 e 700,54108
+2012,MT,Parda,C,Eliminação,1189,Entre 700 e 600,213281
+2012,MT,Parda,D,-,0,Entre 600 e 500,433827
+2012,MT,Parda,E,-,0,Entre 500 e 400,515080
+2012,MT,Parda,F,-,0,Abaixo de 400,440211
+2012,MT,Preta,*,-,0,Sem nota,223880
+2012,MT,Preta,A,Falta,223466,Acima de 800,1616
+2012,MT,Preta,B,Presença,470241,Entre 800 e 700,12108
+2012,MT,Preta,C,Eliminação,414,Entre 700 e 600,57228
+2012,MT,Preta,D,-,0,Entre 600 e 500,125479
+2012,MT,Preta,E,-,0,Entre 500 e 400,146406
+2012,MT,Preta,F,-,0,Abaixo de 400,127404
+2013,CH,Amarela,*,-,0,Sem nota,41677
+2013,CH,Amarela,A,Falta,41581,Acima de 800,49
+2013,CH,Amarela,B,Presença,117926,Entre 800 e 700,2004
+2013,CH,Amarela,C,Eliminação,123,Entre 700 e 600,17744
+2013,CH,Amarela,D,-,0,Entre 600 e 500,50049
+2013,CH,Amarela,E,-,0,Entre 500 e 400,39685
+2013,CH,Amarela,F,-,0,Abaixo de 400,8422
+2013,CH,Branca,*,-,0,Sem nota,737419
+2013,CH,Branca,A,Falta,735968,Acima de 800,1435
+2013,CH,Branca,B,Presença,2099241,Entre 800 e 700,55849
+2013,CH,Branca,C,Eliminação,1887,Entre 700 e 600,413585
+2013,CH,Branca,D,-,0,Entre 600 e 500,900577
+2013,CH,Branca,E,-,0,Entre 500 e 400,609333
+2013,CH,Branca,F,-,0,Abaixo de 400,118898
+2013,CH,Indígena,*,-,0,Sem nota,13789
+2013,CH,Indígena,A,Falta,13742,Acima de 800,1
+2013,CH,Indígena,B,Presença,32766,Entre 800 e 700,208
+2013,CH,Indígena,C,Eliminação,56,Entre 700 e 600,2632
+2013,CH,Indígena,D,-,0,Entre 600 e 500,11492
+2013,CH,Indígena,E,-,0,Entre 500 e 400,14391
+2013,CH,Indígena,F,-,0,Abaixo de 400,4051
+2013,CH,Parda,*,-,0,Sem nota,873541
+2013,CH,Parda,A,Falta,871593,Acima de 800,621
+2013,CH,Parda,B,Presença,2240451,Entre 800 e 700,25415
+2013,CH,Parda,C,Eliminação,2472,Entre 700 e 600,275075
+2013,CH,Parda,D,-,0,Entre 600 e 500,883287
+2013,CH,Parda,E,-,0,Entre 500 e 400,847394
+2013,CH,Parda,F,-,0,Abaixo de 400,209183
+2013,CH,Preta,*,-,0,Sem nota,266982
+2013,CH,Preta,A,Falta,266416,Acima de 800,136
+2013,CH,Preta,B,Presença,624735,Entre 800 e 700,6169
+2013,CH,Preta,C,Eliminação,715,Entre 700 e 600,81667
+2013,CH,Preta,D,-,0,Entre 600 e 500,254726
+2013,CH,Preta,E,-,0,Entre 500 e 400,228562
+2013,CH,Preta,F,-,0,Abaixo de 400,53624
+2013,CN,Amarela,*,-,0,Sem nota,41677
+2013,CN,Amarela,A,Falta,41581,Acima de 800,24
+2013,CN,Amarela,B,Presença,117926,Entre 800 e 700,1240
+2013,CN,Amarela,C,Eliminação,123,Entre 700 e 600,6739
+2013,CN,Amarela,D,-,0,Entre 600 e 500,28488
+2013,CN,Amarela,E,-,0,Entre 500 e 400,61976
+2013,CN,Amarela,F,-,0,Abaixo de 400,19486
+2013,CN,Branca,*,-,0,Sem nota,737419
+2013,CN,Branca,A,Falta,735968,Acima de 800,334
+2013,CN,Branca,B,Presença,2099241,Entre 800 e 700,20358
+2013,CN,Branca,C,Eliminação,1887,Entre 700 e 600,160368
+2013,CN,Branca,D,-,0,Entre 600 e 500,622505
+2013,CN,Branca,E,-,0,Entre 500 e 400,1027923
+2013,CN,Branca,F,-,0,Abaixo de 400,268189
+2013,CN,Indígena,*,-,0,Sem nota,13789
+2013,CN,Indígena,A,Falta,13742,Acima de 800,2
+2013,CN,Indígena,B,Presença,32766,Entre 800 e 700,29
+2013,CN,Indígena,C,Eliminação,56,Entre 700 e 600,540
+2013,CN,Indígena,D,-,0,Entre 600 e 500,5176
+2013,CN,Indígena,E,-,0,Entre 500 e 400,19216
+2013,CN,Indígena,F,-,0,Abaixo de 400,7812
+2013,CN,Parda,*,-,0,Sem nota,873541
+2013,CN,Parda,A,Falta,871593,Acima de 800,104
+2013,CN,Parda,B,Presença,2240451,Entre 800 e 700,5710
+2013,CN,Parda,C,Eliminação,2472,Entre 700 e 600,66199
+2013,CN,Parda,D,-,0,Entre 600 e 500,460582
+2013,CN,Parda,E,-,0,Entre 500 e 400,1257293
+2013,CN,Parda,F,-,0,Abaixo de 400,451087
+2013,CN,Preta,*,-,0,Sem nota,266982
+2013,CN,Preta,A,Falta,266416,Acima de 800,13
+2013,CN,Preta,B,Presença,624735,Entre 800 e 700,847
+2013,CN,Preta,C,Eliminação,715,Entre 700 e 600,14689
+2013,CN,Preta,D,-,0,Entre 600 e 500,129565
+2013,CN,Preta,E,-,0,Entre 500 e 400,355157
+2013,CN,Preta,F,-,0,Abaixo de 400,124613
+2013,LP,Amarela,*,-,0,Sem nota,45543
+2013,LP,Amarela,A,Falta,45416,Acima de 800,0
+2013,LP,Amarela,B,Presença,114084,Entre 800 e 700,136
+2013,LP,Amarela,C,Eliminação,130,Entre 700 e 600,7810
+2013,LP,Amarela,D,-,0,Entre 600 e 500,45848
+2013,LP,Amarela,E,-,0,Entre 500 e 400,46101
+2013,LP,Amarela,F,-,0,Abaixo de 400,14192
+2013,LP,Branca,*,-,0,Sem nota,806156
+2013,LP,Branca,A,Falta,804181,Acima de 800,6
+2013,LP,Branca,B,Presença,2030882,Entre 800 e 700,4556
+2013,LP,Branca,C,Eliminação,2033,Entre 700 e 600,206609
+2013,LP,Branca,D,-,0,Entre 600 e 500,910551
+2013,LP,Branca,E,-,0,Entre 500 e 400,707672
+2013,LP,Branca,F,-,0,Abaixo de 400,201546
+2013,LP,Indígena,*,-,0,Sem nota,15110
+2013,LP,Indígena,A,Falta,15064,Acima de 800,0
+2013,LP,Indígena,B,Presença,31454,Entre 800 e 700,11
+2013,LP,Indígena,C,Eliminação,46,Entre 700 e 600,831
+2013,LP,Indígena,D,-,0,Entre 600 e 500,8800
+2013,LP,Indígena,E,-,0,Entre 500 e 400,15008
+2013,LP,Indígena,F,-,0,Abaixo de 400,6804
+2013,LP,Parda,*,-,0,Sem nota,949670
+2013,LP,Parda,A,Falta,947148,Acima de 800,5
+2013,LP,Parda,B,Presença,2164783,Entre 800 e 700,1584
+2013,LP,Parda,C,Eliminação,2585,Entre 700 e 600,99360
+2013,LP,Parda,D,-,0,Entre 600 e 500,762417
+2013,LP,Parda,E,-,0,Entre 500 e 400,945981
+2013,LP,Parda,F,-,0,Abaixo de 400,355499
+2013,LP,Preta,*,-,0,Sem nota,288869
+2013,LP,Preta,A,Falta,288105,Acima de 800,2
+2013,LP,Preta,B,Presença,602978,Entre 800 e 700,308
+2013,LP,Preta,C,Eliminação,783,Entre 700 e 600,25381
+2013,LP,Preta,D,-,0,Entre 600 e 500,222848
+2013,LP,Preta,E,-,0,Entre 500 e 400,260922
+2013,LP,Preta,F,-,0,Abaixo de 400,93536
+2013,MT,Amarela,*,-,0,Sem nota,45543
+2013,MT,Amarela,A,Falta,45416,Acima de 800,1425
+2013,MT,Amarela,B,Presença,114084,Entre 800 e 700,5758
+2013,MT,Amarela,C,Eliminação,130,Entre 700 e 600,17766
+2013,MT,Amarela,D,-,0,Entre 600 e 500,35296
+2013,MT,Amarela,E,-,0,Entre 500 e 400,36640
+2013,MT,Amarela,F,-,0,Abaixo de 400,17202
+2013,MT,Branca,*,-,0,Sem nota,806156
+2013,MT,Branca,A,Falta,804181,Acima de 800,22698
+2013,MT,Branca,B,Presença,2030882,Entre 800 e 700,123272
+2013,MT,Branca,C,Eliminação,2033,Entre 700 e 600,415792
+2013,MT,Branca,D,-,0,Entre 600 e 500,666513
+2013,MT,Branca,E,-,0,Entre 500 e 400,566571
+2013,MT,Branca,F,-,0,Abaixo de 400,236094
+2013,MT,Indígena,*,-,0,Sem nota,15110
+2013,MT,Indígena,A,Falta,15064,Acima de 800,31
+2013,MT,Indígena,B,Presença,31454,Entre 800 e 700,370
+2013,MT,Indígena,C,Eliminação,46,Entre 700 e 600,2613
+2013,MT,Indígena,D,-,0,Entre 600 e 500,8410
+2013,MT,Indígena,E,-,0,Entre 500 e 400,12788
+2013,MT,Indígena,F,-,0,Abaixo de 400,7242
+2013,MT,Parda,*,-,0,Sem nota,949670
+2013,MT,Parda,A,Falta,947148,Acima de 800,6166
+2013,MT,Parda,B,Presença,2164783,Entre 800 e 700,46641
+2013,MT,Parda,C,Eliminação,2585,Entre 700 e 600,257058
+2013,MT,Parda,D,-,0,Entre 600 e 500,651368
+2013,MT,Parda,E,-,0,Entre 500 e 400,794577
+2013,MT,Parda,F,-,0,Abaixo de 400,409036
+2013,MT,Preta,*,-,0,Sem nota,288869
+2013,MT,Preta,A,Falta,288105,Acima de 800,912
+2013,MT,Preta,B,Presença,602978,Entre 800 e 700,9466
+2013,MT,Preta,C,Eliminação,783,Entre 700 e 600,65702
+2013,MT,Preta,D,-,0,Entre 600 e 500,185253
+2013,MT,Preta,E,-,0,Entre 500 e 400,226659
+2013,MT,Preta,F,-,0,Abaixo de 400,115005
+2014,CH,Amarela,*,-,0,Sem nota,53121
+2014,CH,Amarela,A,Falta,53067,Acima de 800,8
+2014,CH,Amarela,B,Presença,134830,Entre 800 e 700,1515
+2014,CH,Amarela,C,Eliminação,54,Entre 700 e 600,28108
+2014,CH,Amarela,D,-,0,Entre 600 e 500,71897
+2014,CH,Amarela,E,-,0,Entre 500 e 400,29356
+2014,CH,Amarela,F,-,0,Abaixo de 400,3946
+2014,CH,Branca,*,-,0,Sem nota,914728
+2014,CH,Branca,A,Falta,913877,Acima de 800,228
+2014,CH,Branca,B,Presença,2374125,Entre 800 e 700,43439
+2014,CH,Branca,C,Eliminação,856,Entre 700 e 600,666772
+2014,CH,Branca,D,-,0,Entre 600 e 500,1209010
+2014,CH,Branca,E,-,0,Entre 500 e 400,404761
+2014,CH,Branca,F,-,0,Abaixo de 400,49920
+2014,CH,Indígena,*,-,0,Sem nota,17303
+2014,CH,Indígena,A,Falta,17268,Acima de 800,1
+2014,CH,Indígena,B,Presença,37480,Entre 800 e 700,148
+2014,CH,Indígena,C,Eliminação,35,Entre 700 e 600,4580
+2014,CH,Indígena,D,-,0,Entre 600 e 500,19170
+2014,CH,Indígena,E,-,0,Entre 500 e 400,11704
+2014,CH,Indígena,F,-,0,Abaixo de 400,1877
+2014,CH,Parda,*,-,0,Sem nota,1179280
+2014,CH,Parda,A,Falta,1177950,Acima de 800,96
+2014,CH,Parda,B,Presença,2757914,Entre 800 e 700,18740
+2014,CH,Parda,C,Eliminação,1332,Entre 700 e 600,487569
+2014,CH,Parda,D,-,0,Entre 600 e 500,1437421
+2014,CH,Parda,E,-,0,Entre 500 e 400,710405
+2014,CH,Parda,F,-,0,Abaixo de 400,103685
+2014,CH,Preta,*,-,0,Sem nota,349987
+2014,CH,Preta,A,Falta,349583,Acima de 800,10
+2014,CH,Preta,B,Presença,764031,Entre 800 e 700,4319
+2014,CH,Preta,C,Eliminação,405,Entre 700 e 600,144820
+2014,CH,Preta,D,-,0,Entre 600 e 500,404459
+2014,CH,Preta,E,-,0,Entre 500 e 400,183605
+2014,CH,Preta,F,-,0,Abaixo de 400,26819
+2014,CN,Amarela,*,-,0,Sem nota,53121
+2014,CN,Amarela,A,Falta,53067,Acima de 800,45
+2014,CN,Amarela,B,Presença,134830,Entre 800 e 700,1357
+2014,CN,Amarela,C,Eliminação,54,Entre 700 e 600,9022
+2014,CN,Amarela,D,-,0,Entre 600 e 500,41236
+2014,CN,Amarela,E,-,0,Entre 500 e 400,67078
+2014,CN,Amarela,F,-,0,Abaixo de 400,16092
+2014,CN,Branca,*,-,0,Sem nota,914728
+2014,CN,Branca,A,Falta,913877,Acima de 800,619
+2014,CN,Branca,B,Presença,2374125,Entre 800 e 700,22081
+2014,CN,Branca,C,Eliminação,856,Entre 700 e 600,215743
+2014,CN,Branca,D,-,0,Entre 600 e 500,841637
+2014,CN,Branca,E,-,0,Entre 500 e 400,1071856
+2014,CN,Branca,F,-,0,Abaixo de 400,222194
+2014,CN,Indígena,*,-,0,Sem nota,17303
+2014,CN,Indígena,A,Falta,17268,Acima de 800,3
+2014,CN,Indígena,B,Presença,37480,Entre 800 e 700,45
+2014,CN,Indígena,C,Eliminação,35,Entre 700 e 600,818
+2014,CN,Indígena,D,-,0,Entre 600 e 500,8627
+2014,CN,Indígena,E,-,0,Entre 500 e 400,21234
+2014,CN,Indígena,F,-,0,Abaixo de 400,6753
+2014,CN,Parda,*,-,0,Sem nota,1179280
+2014,CN,Parda,A,Falta,1177950,Acima de 800,147
+2014,CN,Parda,B,Presença,2757914,Entre 800 e 700,6467
+2014,CN,Parda,C,Eliminação,1332,Entre 700 e 600,106200
+2014,CN,Parda,D,-,0,Entre 600 e 500,766916
+2014,CN,Parda,E,-,0,Entre 500 e 400,1483604
+2014,CN,Parda,F,-,0,Abaixo de 400,394582
+2014,CN,Preta,*,-,0,Sem nota,349987
+2014,CN,Preta,A,Falta,349583,Acima de 800,22
+2014,CN,Preta,B,Presença,764031,Entre 800 e 700,943
+2014,CN,Preta,C,Eliminação,405,Entre 700 e 600,24292
+2014,CN,Preta,D,-,0,Entre 600 e 500,215554
+2014,CN,Preta,E,-,0,Entre 500 e 400,414657
+2014,CN,Preta,F,-,0,Abaixo de 400,108564
+2014,LP,Amarela,*,-,0,Sem nota,57172
+2014,LP,Amarela,A,Falta,57084,Acima de 800,0
+2014,LP,Amarela,B,Presença,130779,Entre 800 e 700,98
+2014,LP,Amarela,C,Eliminação,88,Entre 700 e 600,10138
+2014,LP,Amarela,D,-,0,Entre 600 e 500,66046
+2014,LP,Amarela,E,-,0,Entre 500 e 400,45005
+2014,LP,Amarela,F,-,0,Abaixo de 400,9492
+2014,LP,Branca,*,-,0,Sem nota,980973
+2014,LP,Branca,A,Falta,979600,Acima de 800,4
+2014,LP,Branca,B,Presença,2307882,Entre 800 e 700,3300
+2014,LP,Branca,C,Eliminação,1376,Entre 700 e 600,288344
+2014,LP,Branca,D,-,0,Entre 600 e 500,1234811
+2014,LP,Branca,E,-,0,Entre 500 e 400,654746
+2014,LP,Branca,F,-,0,Abaixo de 400,126680
+2014,LP,Indígena,*,-,0,Sem nota,18663
+2014,LP,Indígena,A,Falta,18624,Acima de 800,0
+2014,LP,Indígena,B,Presença,36120,Entre 800 e 700,8
+2014,LP,Indígena,C,Eliminação,39,Entre 700 e 600,1209
+2014,LP,Indígena,D,-,0,Entre 600 e 500,14110
+2014,LP,Indígena,E,-,0,Entre 500 e 400,16118
+2014,LP,Indígena,F,-,0,Abaixo de 400,4675
+2014,LP,Parda,*,-,0,Sem nota,1264999
+2014,LP,Parda,A,Falta,1263048,Acima de 800,3
+2014,LP,Parda,B,Presença,2672195,Entre 800 e 700,1076
+2014,LP,Parda,C,Eliminação,1953,Entre 700 e 600,148311
+2014,LP,Parda,D,-,0,Entre 600 e 500,1230610
+2014,LP,Parda,E,-,0,Entre 500 e 400,1040268
+2014,LP,Parda,F,-,0,Abaixo de 400,251929
+2014,LP,Preta,*,-,0,Sem nota,373508
+2014,LP,Preta,A,Falta,372919,Acima de 800,0
+2014,LP,Preta,B,Presença,740509,Entre 800 e 700,219
+2014,LP,Preta,C,Eliminação,591,Entre 700 e 600,39096
+2014,LP,Preta,D,-,0,Entre 600 e 500,349468
+2014,LP,Preta,E,-,0,Entre 500 e 400,284864
+2014,LP,Preta,F,-,0,Abaixo de 400,66864
+2014,MT,Amarela,*,-,0,Sem nota,57172
+2014,MT,Amarela,A,Falta,57084,Acima de 800,1908
+2014,MT,Amarela,B,Presença,130779,Entre 800 e 700,4779
+2014,MT,Amarela,C,Eliminação,88,Entre 700 e 600,11966
+2014,MT,Amarela,D,-,0,Entre 600 e 500,26827
+2014,MT,Amarela,E,-,0,Entre 500 e 400,50449
+2014,MT,Amarela,F,-,0,Abaixo de 400,34850
+2014,MT,Branca,*,-,0,Sem nota,980973
+2014,MT,Branca,A,Falta,979600,Acima de 800,34027
+2014,MT,Branca,B,Presença,2307882,Entre 800 e 700,106755
+2014,MT,Branca,C,Eliminação,1376,Entre 700 e 600,289090
+2014,MT,Branca,D,-,0,Entre 600 e 500,550515
+2014,MT,Branca,E,-,0,Entre 500 e 400,830494
+2014,MT,Branca,F,-,0,Abaixo de 400,497004
+2014,MT,Indígena,*,-,0,Sem nota,18663
+2014,MT,Indígena,A,Falta,18624,Acima de 800,78
+2014,MT,Indígena,B,Presença,36120,Entre 800 e 700,313
+2014,MT,Indígena,C,Eliminação,39,Entre 700 e 600,1516
+2014,MT,Indígena,D,-,0,Entre 600 e 500,5654
+2014,MT,Indígena,E,-,0,Entre 500 e 400,15446
+2014,MT,Indígena,F,-,0,Abaixo de 400,13113
+2014,MT,Parda,*,-,0,Sem nota,1264999
+2014,MT,Parda,A,Falta,1263048,Acima de 800,10234
+2014,MT,Parda,B,Presença,2672195,Entre 800 e 700,43888
+2014,MT,Parda,C,Eliminação,1953,Entre 700 e 600,173473
+2014,MT,Parda,D,-,0,Entre 600 e 500,502461
+2014,MT,Parda,E,-,0,Entre 500 e 400,1111412
+2014,MT,Parda,F,-,0,Abaixo de 400,830729
+2014,MT,Preta,*,-,0,Sem nota,373508
+2014,MT,Preta,A,Falta,372919,Acima de 800,1554
+2014,MT,Preta,B,Presença,740509,Entre 800 e 700,8940
+2014,MT,Preta,C,Eliminação,591,Entre 700 e 600,43502
+2014,MT,Preta,D,-,0,Entre 600 e 500,141446
+2014,MT,Preta,E,-,0,Entre 500 e 400,314402
+2014,MT,Preta,F,-,0,Abaixo de 400,230667
+2015,CH,Amarela,*,-,4,Sem nota,41607
+2015,CH,Amarela,A,Falta,41529,Acima de 800,2
+2015,CH,Amarela,B,Presença,128621,Entre 800 e 700,1591
+2015,CH,Amarela,C,Eliminação,74,Entre 700 e 600,33555
+2015,CH,Amarela,D,-,0,Entre 600 e 500,67295
+2015,CH,Amarela,E,-,0,Entre 500 e 400,23593
+2015,CH,Amarela,F,-,0,Abaixo de 400,2585
+2015,CH,Branca,*,-,113,Sem nota,684999
+2015,CH,Branca,A,Falta,683525,Acima de 800,139
+2015,CH,Branca,B,Presença,2158818,Entre 800 e 700,46873
+2015,CH,Branca,C,Eliminação,1361,Entre 700 e 600,750927
+2015,CH,Branca,D,-,0,Entre 600 e 500,1027982
+2015,CH,Branca,E,-,0,Entre 500 e 400,301023
+2015,CH,Branca,F,-,0,Abaixo de 400,31874
+2015,CH,Indígena,*,-,2,Sem nota,13400
+2015,CH,Indígena,A,Falta,13374,Acima de 800,0
+2015,CH,Indígena,B,Presença,31406,Entre 800 e 700,170
+2015,CH,Indígena,C,Eliminação,24,Entre 700 e 600,5038
+2015,CH,Indígena,D,-,0,Entre 600 e 500,16714
+2015,CH,Indígena,E,-,0,Entre 500 e 400,8420
+2015,CH,Indígena,F,-,0,Abaixo de 400,1064
+2015,CH,Parda,*,-,159,Sem nota,927823
+2015,CH,Parda,A,Falta,926220,Acima de 800,51
+2015,CH,Parda,B,Presença,2601041,Entre 800 e 700,21557
+2015,CH,Parda,C,Eliminação,1444,Entre 700 e 600,598254
+2015,CH,Parda,D,-,0,Entre 600 e 500,1376803
+2015,CH,Parda,E,-,0,Entre 500 e 400,541195
+2015,CH,Parda,F,-,0,Abaixo de 400,63181
+2015,CH,Preta,*,-,52,Sem nota,280946
+2015,CH,Preta,A,Falta,280398,Acima de 800,12
+2015,CH,Preta,B,Presença,732971,Entre 800 e 700,4731
+2015,CH,Preta,C,Eliminação,496,Entre 700 e 600,171543
+2015,CH,Preta,D,-,0,Entre 600 e 500,392929
+2015,CH,Preta,E,-,0,Entre 500 e 400,146917
+2015,CH,Preta,F,-,0,Abaixo de 400,16839
+2015,CN,Amarela,*,-,4,Sem nota,41607
+2015,CN,Amarela,A,Falta,41529,Acima de 800,45
+2015,CN,Amarela,B,Presença,128621,Entre 800 e 700,1133
+2015,CN,Amarela,C,Eliminação,74,Entre 700 e 600,7828
+2015,CN,Amarela,D,-,0,Entre 600 e 500,36044
+2015,CN,Amarela,E,-,0,Entre 500 e 400,67370
+2015,CN,Amarela,F,-,0,Abaixo de 400,16201
+2015,CN,Branca,*,-,113,Sem nota,684999
+2015,CN,Branca,A,Falta,683525,Acima de 800,382
+2015,CN,Branca,B,Presença,2158818,Entre 800 e 700,17763
+2015,CN,Branca,C,Eliminação,1361,Entre 700 e 600,183556
+2015,CN,Branca,D,-,0,Entre 600 e 500,738669
+2015,CN,Branca,E,-,0,Entre 500 e 400,1016066
+2015,CN,Branca,F,-,0,Abaixo de 400,202382
+2015,CN,Indígena,*,-,2,Sem nota,13400
+2015,CN,Indígena,A,Falta,13374,Acima de 800,1
+2015,CN,Indígena,B,Presença,31406,Entre 800 e 700,42
+2015,CN,Indígena,C,Eliminação,24,Entre 700 e 600,616
+2015,CN,Indígena,D,-,0,Entre 600 e 500,6233
+2015,CN,Indígena,E,-,0,Entre 500 e 400,18270
+2015,CN,Indígena,F,-,0,Abaixo de 400,6244
+2015,CN,Parda,*,-,159,Sem nota,927823
+2015,CN,Parda,A,Falta,926220,Acima de 800,107
+2015,CN,Parda,B,Presença,2601041,Entre 800 e 700,5811
+2015,CN,Parda,C,Eliminação,1444,Entre 700 e 600,93678
+2015,CN,Parda,D,-,0,Entre 600 e 500,674316
+2015,CN,Parda,E,-,0,Entre 500 e 400,1440191
+2015,CN,Parda,F,-,0,Abaixo de 400,386938
+2015,CN,Preta,*,-,52,Sem nota,280946
+2015,CN,Preta,A,Falta,280398,Acima de 800,14
+2015,CN,Preta,B,Presença,732971,Entre 800 e 700,860
+2015,CN,Preta,C,Eliminação,496,Entre 700 e 600,19962
+2015,CN,Preta,D,-,0,Entre 600 e 500,191317
+2015,CN,Preta,E,-,0,Entre 500 e 400,413313
+2015,CN,Preta,F,-,0,Abaixo de 400,107505
+2015,LP,Amarela,*,-,4,Sem nota,44580
+2015,LP,Amarela,A,Falta,44467,Acima de 800,0
+2015,LP,Amarela,B,Presença,125648,Entre 800 e 700,217
+2015,LP,Amarela,C,Eliminação,109,Entre 700 e 600,10353
+2015,LP,Amarela,D,-,0,Entre 600 e 500,57507
+2015,LP,Amarela,E,-,0,Entre 500 e 400,47235
+2015,LP,Amarela,F,-,0,Abaixo de 400,10336
+2015,LP,Branca,*,-,100,Sem nota,733162
+2015,LP,Branca,A,Falta,731338,Acima de 800,6
+2015,LP,Branca,B,Presença,2110655,Entre 800 e 700,4675
+2015,LP,Branca,C,Eliminação,1724,Entre 700 e 600,277392
+2015,LP,Branca,D,-,0,Entre 600 e 500,1063689
+2015,LP,Branca,E,-,0,Entre 500 e 400,641330
+2015,LP,Branca,F,-,0,Abaixo de 400,123563
+2015,LP,Indígena,*,-,2,Sem nota,14225
+2015,LP,Indígena,A,Falta,14198,Acima de 800,0
+2015,LP,Indígena,B,Presença,30581,Entre 800 e 700,12
+2015,LP,Indígena,C,Eliminação,25,Entre 700 e 600,1042
+2015,LP,Indígena,D,-,0,Entre 600 e 500,10665
+2015,LP,Indígena,E,-,0,Entre 500 e 400,14407
+2015,LP,Indígena,F,-,0,Abaixo de 400,4455
+2015,LP,Parda,*,-,152,Sem nota,986060
+2015,LP,Parda,A,Falta,984112,Acima de 800,0
+2015,LP,Parda,B,Presença,2542804,Entre 800 e 700,1571
+2015,LP,Parda,C,Eliminação,1796,Entre 700 e 600,151512
+2015,LP,Parda,D,-,0,Entre 600 e 500,1094775
+2015,LP,Parda,E,-,0,Entre 500 e 400,1038185
+2015,LP,Parda,F,-,0,Abaixo de 400,256761
+2015,LP,Preta,*,-,49,Sem nota,297552
+2015,LP,Preta,A,Falta,296931,Acima de 800,0
+2015,LP,Preta,B,Presença,716365,Entre 800 e 700,267
+2015,LP,Preta,C,Eliminação,572,Entre 700 e 600,39112
+2015,LP,Preta,D,-,0,Entre 600 e 500,319565
+2015,LP,Preta,E,-,0,Entre 500 e 400,287571
+2015,LP,Preta,F,-,0,Abaixo de 400,69850
+2015,MT,Amarela,*,-,4,Sem nota,44580
+2015,MT,Amarela,A,Falta,44467,Acima de 800,1858
+2015,MT,Amarela,B,Presença,125648,Entre 800 e 700,5079
+2015,MT,Amarela,C,Eliminação,109,Entre 700 e 600,10519
+2015,MT,Amarela,D,-,0,Entre 600 e 500,21729
+2015,MT,Amarela,E,-,0,Entre 500 e 400,49292
+2015,MT,Amarela,F,-,0,Abaixo de 400,37171
+2015,MT,Branca,*,-,100,Sem nota,733162
+2015,MT,Branca,A,Falta,731338,Acima de 800,31349
+2015,MT,Branca,B,Presença,2110655,Entre 800 e 700,109624
+2015,MT,Branca,C,Eliminação,1724,Entre 700 e 600,247536
+2015,MT,Branca,D,-,0,Entre 600 e 500,447323
+2015,MT,Branca,E,-,0,Entre 500 e 400,779241
+2015,MT,Branca,F,-,0,Abaixo de 400,495582
+2015,MT,Indígena,*,-,2,Sem nota,14225
+2015,MT,Indígena,A,Falta,14198,Acima de 800,56
+2015,MT,Indígena,B,Presença,30581,Entre 800 e 700,303
+2015,MT,Indígena,C,Eliminação,25,Entre 700 e 600,1129
+2015,MT,Indígena,D,-,0,Entre 600 e 500,3777
+2015,MT,Indígena,E,-,0,Entre 500 e 400,12733
+2015,MT,Indígena,F,-,0,Abaixo de 400,12583
+2015,MT,Parda,*,-,152,Sem nota,986060
+2015,MT,Parda,A,Falta,984112,Acima de 800,10616
+2015,MT,Parda,B,Presença,2542804,Entre 800 e 700,50543
+2015,MT,Parda,C,Eliminação,1796,Entre 700 e 600,157307
+2015,MT,Parda,D,-,0,Entre 600 e 500,423066
+2015,MT,Parda,E,-,0,Entre 500 e 400,1057483
+2015,MT,Parda,F,-,0,Abaixo de 400,843789
+2015,MT,Preta,*,-,49,Sem nota,297552
+2015,MT,Preta,A,Falta,296931,Acima de 800,1436
+2015,MT,Preta,B,Presença,716365,Entre 800 e 700,9400
+2015,MT,Preta,C,Eliminação,572,Entre 700 e 600,37005
+2015,MT,Preta,D,-,0,Entre 600 e 500,114900
+2015,MT,Preta,E,-,0,Entre 500 e 400,303272
+2015,MT,Preta,F,-,0,Abaixo de 400,250352
+2016,CH,Amarela,*,-,4,Sem nota,60518
+2016,CH,Amarela,A,Falta,60431,Acima de 800,18
+2016,CH,Amarela,B,Presença,140579,Entre 800 e 700,1411
+2016,CH,Amarela,C,Eliminação,83,Entre 700 e 600,22694
+2016,CH,Amarela,D,-,0,Entre 600 e 500,70727
+2016,CH,Amarela,E,-,0,Entre 500 e 400,39897
+2016,CH,Amarela,F,-,0,Abaixo de 400,5832
+2016,CH,Branca,*,-,117,Sem nota,878930
+2016,CH,Branca,A,Falta,877625,Acima de 800,387
+2016,CH,Branca,B,Presença,2168497,Entre 800 e 700,35848
+2016,CH,Branca,C,Eliminação,1188,Entre 700 e 600,524739
+2016,CH,Branca,D,-,0,Entre 600 e 500,1071275
+2016,CH,Branca,E,-,0,Entre 500 e 400,472970
+2016,CH,Branca,F,-,0,Abaixo de 400,63278
+2016,CH,Indígena,*,-,4,Sem nota,19198
+2016,CH,Indígena,A,Falta,19155,Acima de 800,0
+2016,CH,Indígena,B,Presença,35053,Entre 800 e 700,110
+2016,CH,Indígena,C,Eliminação,39,Entre 700 e 600,2986
+2016,CH,Indígena,D,-,0,Entre 600 e 500,16076
+2016,CH,Indígena,E,-,0,Entre 500 e 400,13375
+2016,CH,Indígena,F,-,0,Abaixo de 400,2506
+2016,CH,Parda,*,-,176,Sem nota,1235923
+2016,CH,Parda,A,Falta,1234019,Acima de 800,179
+2016,CH,Parda,B,Presença,2767909,Entre 800 e 700,17309
+2016,CH,Parda,C,Eliminação,1728,Entre 700 e 600,389242
+2016,CH,Parda,D,-,0,Entre 600 e 500,1362582
+2016,CH,Parda,E,-,0,Entre 500 e 400,861840
+2016,CH,Parda,F,-,0,Abaixo de 400,136757
+2016,CH,Preta,*,-,62,Sem nota,377205
+2016,CH,Preta,A,Falta,376562,Acima de 800,26
+2016,CH,Preta,B,Presença,778529,Entre 800 e 700,3951
+2016,CH,Preta,C,Eliminação,581,Entre 700 e 600,112159
+2016,CH,Preta,D,-,0,Entre 600 e 500,399722
+2016,CH,Preta,E,-,0,Entre 500 e 400,227529
+2016,CH,Preta,F,-,0,Abaixo de 400,35142
+2016,CN,Amarela,*,-,4,Sem nota,60518
+2016,CN,Amarela,A,Falta,60431,Acima de 800,50
+2016,CN,Amarela,B,Presença,140579,Entre 800 e 700,1405
+2016,CN,Amarela,C,Eliminação,83,Entre 700 e 600,9158
+2016,CN,Amarela,D,-,0,Entre 600 e 500,34702
+2016,CN,Amarela,E,-,0,Entre 500 e 400,78348
+2016,CN,Amarela,F,-,0,Abaixo de 400,16916
+2016,CN,Branca,*,-,117,Sem nota,878930
+2016,CN,Branca,A,Falta,877625,Acima de 800,445
+2016,CN,Branca,B,Presença,2168497,Entre 800 e 700,22331
+2016,CN,Branca,C,Eliminação,1188,Entre 700 e 600,211116
+2016,CN,Branca,D,-,0,Entre 600 e 500,665800
+2016,CN,Branca,E,-,0,Entre 500 e 400,1065051
+2016,CN,Branca,F,-,0,Abaixo de 400,203754
+2016,CN,Indígena,*,-,4,Sem nota,19198
+2016,CN,Indígena,A,Falta,19155,Acima de 800,0
+2016,CN,Indígena,B,Presença,35053,Entre 800 e 700,46
+2016,CN,Indígena,C,Eliminação,39,Entre 700 e 600,714
+2016,CN,Indígena,D,-,0,Entre 600 e 500,6258
+2016,CN,Indígena,E,-,0,Entre 500 e 400,22166
+2016,CN,Indígena,F,-,0,Abaixo de 400,5869
+2016,CN,Parda,*,-,176,Sem nota,1235923
+2016,CN,Parda,A,Falta,1234019,Acima de 800,141
+2016,CN,Parda,B,Presença,2767909,Entre 800 e 700,7640
+2016,CN,Parda,C,Eliminação,1728,Entre 700 e 600,113835
+2016,CN,Parda,D,-,0,Entre 600 e 500,645756
+2016,CN,Parda,E,-,0,Entre 500 e 400,1636477
+2016,CN,Parda,F,-,0,Abaixo de 400,364060
+2016,CN,Preta,*,-,62,Sem nota,377205
+2016,CN,Preta,A,Falta,376562,Acima de 800,15
+2016,CN,Preta,B,Presença,778529,Entre 800 e 700,1085
+2016,CN,Preta,C,Eliminação,581,Entre 700 e 600,25065
+2016,CN,Preta,D,-,0,Entre 600 e 500,181625
+2016,CN,Preta,E,-,0,Entre 500 e 400,467688
+2016,CN,Preta,F,-,0,Abaixo de 400,103051
+2016,LP,Amarela,*,-,4,Sem nota,64212
+2016,LP,Amarela,A,Falta,64106,Acima de 800,0
+2016,LP,Amarela,B,Presença,136885,Entre 800 e 700,198
+2016,LP,Amarela,C,Eliminação,102,Entre 700 e 600,15274
+2016,LP,Amarela,D,-,0,Entre 600 e 500,70088
+2016,LP,Amarela,E,-,0,Entre 500 e 400,45210
+2016,LP,Amarela,F,-,0,Abaixo de 400,6115
+2016,LP,Branca,*,-,117,Sem nota,934777
+2016,LP,Branca,A,Falta,933092,Acima de 800,0
+2016,LP,Branca,B,Presença,2112650,Entre 800 e 700,4876
+2016,LP,Branca,C,Eliminação,1568,Entre 700 e 600,379432
+2016,LP,Branca,D,-,0,Entre 600 e 500,1126112
+2016,LP,Branca,E,-,0,Entre 500 e 400,534524
+2016,LP,Branca,F,-,0,Abaixo de 400,67706
+2016,LP,Indígena,*,-,4,Sem nota,20274
+2016,LP,Indígena,A,Falta,20238,Acima de 800,0
+2016,LP,Indígena,B,Presença,33977,Entre 800 e 700,11
+2016,LP,Indígena,C,Eliminação,32,Entre 700 e 600,1581
+2016,LP,Indígena,D,-,0,Entre 600 e 500,14669
+2016,LP,Indígena,E,-,0,Entre 500 e 400,14985
+2016,LP,Indígena,F,-,0,Abaixo de 400,2731
+2016,LP,Parda,*,-,176,Sem nota,1306650
+2016,LP,Parda,A,Falta,1304325,Acima de 800,1
+2016,LP,Parda,B,Presença,2697182,Entre 800 e 700,1521
+2016,LP,Parda,C,Eliminação,2149,Entre 700 e 600,224316
+2016,LP,Parda,D,-,0,Entre 600 e 500,1350602
+2016,LP,Parda,E,-,0,Entre 500 e 400,980040
+2016,LP,Parda,F,-,0,Abaixo de 400,140702
+2016,LP,Preta,*,-,62,Sem nota,397028
+2016,LP,Preta,A,Falta,396280,Acima de 800,0
+2016,LP,Preta,B,Presença,758706,Entre 800 e 700,280
+2016,LP,Preta,C,Eliminação,686,Entre 700 e 600,61047
+2016,LP,Preta,D,-,0,Entre 600 e 500,389662
+2016,LP,Preta,E,-,0,Entre 500 e 400,269542
+2016,LP,Preta,F,-,0,Abaixo de 400,38175
+2016,MT,Amarela,*,-,4,Sem nota,64212
+2016,MT,Amarela,A,Falta,64106,Acima de 800,1874
+2016,MT,Amarela,B,Presença,136885,Entre 800 e 700,5778
+2016,MT,Amarela,C,Eliminação,102,Entre 700 e 600,13966
+2016,MT,Amarela,D,-,0,Entre 600 e 500,30947
+2016,MT,Amarela,E,-,0,Entre 500 e 400,58121
+2016,MT,Amarela,F,-,0,Abaixo de 400,26199
+2016,MT,Branca,*,-,117,Sem nota,934777
+2016,MT,Branca,A,Falta,933092,Acima de 800,31547
+2016,MT,Branca,B,Presença,2112650,Entre 800 e 700,127147
+2016,MT,Branca,C,Eliminação,1568,Entre 700 e 600,310825
+2016,MT,Branca,D,-,0,Entre 600 e 500,544105
+2016,MT,Branca,E,-,0,Entre 500 e 400,792675
+2016,MT,Branca,F,-,0,Abaixo de 400,306351
+2016,MT,Indígena,*,-,4,Sem nota,20274
+2016,MT,Indígena,A,Falta,20238,Acima de 800,63
+2016,MT,Indígena,B,Presença,33977,Entre 800 e 700,339
+2016,MT,Indígena,C,Eliminação,32,Entre 700 e 600,1755
+2016,MT,Indígena,D,-,0,Entre 600 e 500,6194
+2016,MT,Indígena,E,-,0,Entre 500 e 400,16649
+2016,MT,Indígena,F,-,0,Abaixo de 400,8977
+2016,MT,Parda,*,-,176,Sem nota,1306650
+2016,MT,Parda,A,Falta,1304325,Acima de 800,11016
+2016,MT,Parda,B,Presença,2697182,Entre 800 e 700,60170
+2016,MT,Parda,C,Eliminação,2149,Entre 700 e 600,223309
+2016,MT,Parda,D,-,0,Entre 600 e 500,597117
+2016,MT,Parda,E,-,0,Entre 500 e 400,1228379
+2016,MT,Parda,F,-,0,Abaixo de 400,577191
+2016,MT,Preta,*,-,62,Sem nota,397028
+2016,MT,Preta,A,Falta,396280,Acima de 800,1438
+2016,MT,Preta,B,Presença,758706,Entre 800 e 700,11652
+2016,MT,Preta,C,Eliminação,686,Entre 700 e 600,55222
+2016,MT,Preta,D,-,0,Entre 600 e 500,168298
+2016,MT,Preta,E,-,0,Entre 500 e 400,355207
+2016,MT,Preta,F,-,0,Abaixo de 400,166889
+2017,CH,Amarela,*,-,1,Sem nota,46614
+2017,CH,Amarela,A,Falta,46569,Acima de 800,5
+2017,CH,Amarela,B,Presença,108730,Entre 800 e 700,871
+2017,CH,Amarela,C,Eliminação,44,Entre 700 e 600,17107
+2017,CH,Amarela,D,-,0,Entre 600 e 500,43947
+2017,CH,Amarela,E,-,0,Entre 500 e 400,38374
+2017,CH,Amarela,F,-,0,Abaixo de 400,8426
+2017,CH,Branca,*,-,58,Sem nota,644288
+2017,CH,Branca,A,Falta,643430,Acima de 800,208
+2017,CH,Branca,B,Presença,1710941,Entre 800 e 700,23539
+2017,CH,Branca,C,Eliminação,800,Entre 700 e 600,397951
+2017,CH,Branca,D,-,0,Entre 600 e 500,731962
+2017,CH,Branca,E,-,0,Entre 500 e 400,466025
+2017,CH,Branca,F,-,0,Abaixo de 400,91256
+2017,CH,Indígena,*,-,0,Sem nota,15739
+2017,CH,Indígena,A,Falta,15721,Acima de 800,0
+2017,CH,Indígena,B,Presença,28058,Entre 800 e 700,52
+2017,CH,Indígena,C,Eliminação,18,Entre 700 e 600,1945
+2017,CH,Indígena,D,-,0,Entre 600 e 500,9835
+2017,CH,Indígena,E,-,0,Entre 500 e 400,12850
+2017,CH,Indígena,F,-,0,Abaixo de 400,3376
+2017,CH,Parda,*,-,106,Sem nota,984766
+2017,CH,Parda,A,Falta,983600,Acima de 800,64
+2017,CH,Parda,B,Presença,2169729,Entre 800 e 700,9585
+2017,CH,Parda,C,Eliminação,1060,Entre 700 e 600,269194
+2017,CH,Parda,D,-,0,Entre 600 e 500,861870
+2017,CH,Parda,E,-,0,Entre 500 e 400,836521
+2017,CH,Parda,F,-,0,Abaixo de 400,192495
+2017,CH,Preta,*,-,43,Sem nota,299012
+2017,CH,Preta,A,Falta,298693,Acima de 800,15
+2017,CH,Preta,B,Presença,595895,Entre 800 e 700,1907
+2017,CH,Preta,C,Eliminação,276,Entre 700 e 600,71905
+2017,CH,Preta,D,-,0,Entre 600 e 500,244702
+2017,CH,Preta,E,-,0,Entre 500 e 400,225602
+2017,CH,Preta,F,-,0,Abaixo de 400,51764
+2017,CN,Amarela,*,-,1,Sem nota,52778
+2017,CN,Amarela,A,Falta,52757,Acima de 800,16
+2017,CN,Amarela,B,Presença,102566,Entre 800 e 700,1015
+2017,CN,Amarela,C,Eliminação,20,Entre 700 e 600,12030
+2017,CN,Amarela,D,-,0,Entre 600 e 500,40780
+2017,CN,Amarela,E,-,0,Entre 500 e 400,43830
+2017,CN,Amarela,F,-,0,Abaixo de 400,4895
+2017,CN,Branca,*,-,58,Sem nota,732765
+2017,CN,Branca,A,Falta,732347,Acima de 800,132
+2017,CN,Branca,B,Presença,1622464,Entre 800 e 700,17617
+2017,CN,Branca,C,Eliminação,360,Entre 700 e 600,279511
+2017,CN,Branca,D,-,0,Entre 600 e 500,708470
+2017,CN,Branca,E,-,0,Entre 500 e 400,563001
+2017,CN,Branca,F,-,0,Abaixo de 400,53733
+2017,CN,Indígena,*,-,0,Sem nota,17860
+2017,CN,Indígena,A,Falta,17855,Acima de 800,0
+2017,CN,Indígena,B,Presença,25937,Entre 800 e 700,33
+2017,CN,Indígena,C,Eliminação,5,Entre 700 e 600,1141
+2017,CN,Indígena,D,-,0,Entre 600 e 500,8767
+2017,CN,Indígena,E,-,0,Entre 500 e 400,14110
+2017,CN,Indígena,F,-,0,Abaixo de 400,1886
+2017,CN,Parda,*,-,106,Sem nota,1109949
+2017,CN,Parda,A,Falta,1109333,Acima de 800,34
+2017,CN,Parda,B,Presença,2044546,Entre 800 e 700,5948
+2017,CN,Parda,C,Eliminação,510,Entre 700 e 600,163342
+2017,CN,Parda,D,-,0,Entre 600 e 500,805039
+2017,CN,Parda,E,-,0,Entre 500 e 400,960086
+2017,CN,Parda,F,-,0,Abaixo de 400,110097
+2017,CN,Preta,*,-,43,Sem nota,335709
+2017,CN,Preta,A,Falta,335537,Acima de 800,3
+2017,CN,Preta,B,Presença,559198,Entre 800 e 700,851
+2017,CN,Preta,C,Eliminação,129,Entre 700 e 600,37849
+2017,CN,Preta,D,-,0,Entre 600 e 500,225458
+2017,CN,Preta,E,-,0,Entre 500 e 400,265040
+2017,CN,Preta,F,-,0,Abaixo de 400,29997
+2017,LP,Amarela,*,-,1,Sem nota,46614
+2017,LP,Amarela,A,Falta,46569,Acima de 800,0
+2017,LP,Amarela,B,Presença,108730,Entre 800 e 700,20
+2017,LP,Amarela,C,Eliminação,44,Entre 700 e 600,7655
+2017,LP,Amarela,D,-,0,Entre 600 e 500,55337
+2017,LP,Amarela,E,-,0,Entre 500 e 400,39472
+2017,LP,Amarela,F,-,0,Abaixo de 400,6246
+2017,LP,Branca,*,-,58,Sem nota,644288
+2017,LP,Branca,A,Falta,643430,Acima de 800,0
+2017,LP,Branca,B,Presença,1710941,Entre 800 e 700,842
+2017,LP,Branca,C,Eliminação,800,Entre 700 e 600,205994
+2017,LP,Branca,D,-,0,Entre 600 e 500,972932
+2017,LP,Branca,E,-,0,Entre 500 e 400,462756
+2017,LP,Branca,F,-,0,Abaixo de 400,68417
+2017,LP,Indígena,*,-,0,Sem nota,15739
+2017,LP,Indígena,A,Falta,15721,Acima de 800,0
+2017,LP,Indígena,B,Presença,28058,Entre 800 e 700,0
+2017,LP,Indígena,C,Eliminação,18,Entre 700 e 600,649
+2017,LP,Indígena,D,-,0,Entre 600 e 500,10546
+2017,LP,Indígena,E,-,0,Entre 500 e 400,13483
+2017,LP,Indígena,F,-,0,Abaixo de 400,3380
+2017,LP,Parda,*,-,106,Sem nota,984766
+2017,LP,Parda,A,Falta,983600,Acima de 800,0
+2017,LP,Parda,B,Presença,2169729,Entre 800 e 700,266
+2017,LP,Parda,C,Eliminação,1060,Entre 700 e 600,100876
+2017,LP,Parda,D,-,0,Entre 600 e 500,1038724
+2017,LP,Parda,E,-,0,Entre 500 e 400,874126
+2017,LP,Parda,F,-,0,Abaixo de 400,155737
+2017,LP,Preta,*,-,43,Sem nota,299012
+2017,LP,Preta,A,Falta,298693,Acima de 800,0
+2017,LP,Preta,B,Presença,595895,Entre 800 e 700,49
+2017,LP,Preta,C,Eliminação,276,Entre 700 e 600,25346
+2017,LP,Preta,D,-,0,Entre 600 e 500,294745
+2017,LP,Preta,E,-,0,Entre 500 e 400,233342
+2017,LP,Preta,F,-,0,Abaixo de 400,42413
+2017,MT,Amarela,*,-,1,Sem nota,52778
+2017,MT,Amarela,A,Falta,52757,Acima de 800,1828
+2017,MT,Amarela,B,Presença,102566,Entre 800 e 700,6121
+2017,MT,Amarela,C,Eliminação,20,Entre 700 e 600,14943
+2017,MT,Amarela,D,-,0,Entre 600 e 500,29211
+2017,MT,Amarela,E,-,0,Entre 500 e 400,38513
+2017,MT,Amarela,F,-,0,Abaixo de 400,11950
+2017,MT,Branca,*,-,58,Sem nota,732765
+2017,MT,Branca,A,Falta,732347,Acima de 800,34518
+2017,MT,Branca,B,Presença,1622464,Entre 800 e 700,135605
+2017,MT,Branca,C,Eliminação,360,Entre 700 e 600,325715
+2017,MT,Branca,D,-,0,Entre 600 e 500,495080
+2017,MT,Branca,E,-,0,Entre 500 e 400,495696
+2017,MT,Branca,F,-,0,Abaixo de 400,135850
+2017,MT,Indígena,*,-,0,Sem nota,17860
+2017,MT,Indígena,A,Falta,17855,Acima de 800,58
+2017,MT,Indígena,B,Presença,25937,Entre 800 e 700,350
+2017,MT,Indígena,C,Eliminação,5,Entre 700 e 600,2154
+2017,MT,Indígena,D,-,0,Entre 600 e 500,6556
+2017,MT,Indígena,E,-,0,Entre 500 e 400,12209
+2017,MT,Indígena,F,-,0,Abaixo de 400,4610
+2017,MT,Parda,*,-,106,Sem nota,1109949
+2017,MT,Parda,A,Falta,1109333,Acima de 800,11743
+2017,MT,Parda,B,Presença,2044546,Entre 800 e 700,66230
+2017,MT,Parda,C,Eliminação,510,Entre 700 e 600,254982
+2017,MT,Parda,D,-,0,Entre 600 e 500,591867
+2017,MT,Parda,E,-,0,Entre 500 e 400,841970
+2017,MT,Parda,F,-,0,Abaixo de 400,277754
+2017,MT,Preta,*,-,43,Sem nota,335709
+2017,MT,Preta,A,Falta,335537,Acima de 800,1546
+2017,MT,Preta,B,Presença,559198,Entre 800 e 700,12263
+2017,MT,Preta,C,Eliminação,129,Entre 700 e 600,62231
+2017,MT,Preta,D,-,0,Entre 600 e 500,161722
+2017,MT,Preta,E,-,0,Entre 500 e 400,240553
+2017,MT,Preta,F,-,0,Abaixo de 400,80883
+2018,CH,Amarela,*,-,0,Sem nota,30126
+2018,CH,Amarela,A,Falta,30079,Acima de 800,7
+2018,CH,Amarela,B,Presença,93485,Entre 800 e 700,1993
+2018,CH,Amarela,C,Eliminação,47,Entre 700 e 600,34757
+2018,CH,Amarela,D,-,0,Entre 600 e 500,35146
+2018,CH,Amarela,E,-,0,Entre 500 e 400,21068
+2018,CH,Amarela,F,-,0,Abaixo de 400,514
+2018,CH,Branca,*,-,57,Sem nota,453344
+2018,CH,Branca,A,Falta,452569,Acima de 800,165
+2018,CH,Branca,B,Presença,1528310,Entre 800 e 700,54748
+2018,CH,Branca,C,Eliminação,718,Entre 700 e 600,738385
+2018,CH,Branca,D,-,0,Entre 600 e 500,487335
+2018,CH,Branca,E,-,0,Entre 500 e 400,241462
+2018,CH,Branca,F,-,0,Abaixo de 400,6215
+2018,CH,Indígena,*,-,2,Sem nota,9698
+2018,CH,Indígena,A,Falta,9686,Acima de 800,0
+2018,CH,Indígena,B,Presença,24335,Entre 800 e 700,104
+2018,CH,Indígena,C,Eliminação,10,Entre 700 e 600,5517
+2018,CH,Indígena,D,-,0,Entre 600 e 500,10124
+2018,CH,Indígena,E,-,0,Entre 500 e 400,8330
+2018,CH,Indígena,F,-,0,Abaixo de 400,260
+2018,CH,Parda,*,-,65,Sem nota,653849
+2018,CH,Parda,A,Falta,652954,Acima de 800,63
+2018,CH,Parda,B,Presença,1907458,Entre 800 e 700,22653
+2018,CH,Parda,C,Eliminação,830,Entre 700 e 600,635973
+2018,CH,Parda,D,-,0,Entre 600 e 500,752520
+2018,CH,Parda,E,-,0,Entre 500 e 400,484293
+2018,CH,Parda,F,-,0,Abaixo de 400,11956
+2018,CH,Preta,*,-,21,Sem nota,187714
+2018,CH,Preta,A,Falta,187445,Acima de 800,5
+2018,CH,Preta,B,Presença,510980,Entre 800 e 700,4418
+2018,CH,Preta,C,Eliminação,248,Entre 700 e 600,173428
+2018,CH,Preta,D,-,0,Entre 600 e 500,201217
+2018,CH,Preta,E,-,0,Entre 500 e 400,128472
+2018,CH,Preta,F,-,0,Abaixo de 400,3440
+2018,CN,Amarela,*,-,0,Sem nota,35829
+2018,CN,Amarela,A,Falta,35812,Acima de 800,16
+2018,CN,Amarela,B,Presença,87782,Entre 800 e 700,1169
+2018,CN,Amarela,C,Eliminação,17,Entre 700 e 600,8204
+2018,CN,Amarela,D,-,0,Entre 600 e 500,27985
+2018,CN,Amarela,E,-,0,Entre 500 e 400,43708
+2018,CN,Amarela,F,-,0,Abaixo de 400,6700
+2018,CN,Branca,*,-,57,Sem nota,537193
+2018,CN,Branca,A,Falta,536877,Acima de 800,239
+2018,CN,Branca,B,Presença,1444461,Entre 800 e 700,20029
+2018,CN,Branca,C,Eliminação,259,Entre 700 e 600,191719
+2018,CN,Branca,D,-,0,Entre 600 e 500,542803
+2018,CN,Branca,E,-,0,Entre 500 e 400,612073
+2018,CN,Branca,F,-,0,Abaixo de 400,77598
+2018,CN,Indígena,*,-,2,Sem nota,11534
+2018,CN,Indígena,A,Falta,11527,Acima de 800,0
+2018,CN,Indígena,B,Presença,22499,Entre 800 e 700,26
+2018,CN,Indígena,C,Eliminação,5,Entre 700 e 600,662
+2018,CN,Indígena,D,-,0,Entre 600 e 500,5264
+2018,CN,Indígena,E,-,0,Entre 500 e 400,13590
+2018,CN,Indígena,F,-,0,Abaixo de 400,2957
+2018,CN,Parda,*,-,65,Sem nota,768051
+2018,CN,Parda,A,Falta,767674,Acima de 800,59
+2018,CN,Parda,B,Presença,1793256,Entre 800 e 700,6405
+2018,CN,Parda,C,Eliminação,312,Entre 700 e 600,98893
+2018,CN,Parda,D,-,0,Entre 600 e 500,542324
+2018,CN,Parda,E,-,0,Entre 500 e 400,979993
+2018,CN,Parda,F,-,0,Abaixo de 400,165582
+2018,CN,Preta,*,-,21,Sem nota,219897
+2018,CN,Preta,A,Falta,219792,Acima de 800,4
+2018,CN,Preta,B,Presença,478797,Entre 800 e 700,887
+2018,CN,Preta,C,Eliminação,84,Entre 700 e 600,19685
+2018,CN,Preta,D,-,0,Entre 600 e 500,145017
+2018,CN,Preta,E,-,0,Entre 500 e 400,268971
+2018,CN,Preta,F,-,0,Abaixo de 400,44233
+2018,LP,Amarela,*,-,0,Sem nota,30126
+2018,LP,Amarela,A,Falta,30079,Acima de 800,0
+2018,LP,Amarela,B,Presença,93485,Entre 800 e 700,236
+2018,LP,Amarela,C,Eliminação,47,Entre 700 e 600,13703
+2018,LP,Amarela,D,-,0,Entre 600 e 500,46113
+2018,LP,Amarela,E,-,0,Entre 500 e 400,29385
+2018,LP,Amarela,F,-,0,Abaixo de 400,4048
+2018,LP,Branca,*,-,57,Sem nota,453344
+2018,LP,Branca,A,Falta,452569,Acima de 800,1
+2018,LP,Branca,B,Presença,1528310,Entre 800 e 700,6881
+2018,LP,Branca,C,Eliminação,718,Entre 700 e 600,352671
+2018,LP,Branca,D,-,0,Entre 600 e 500,777883
+2018,LP,Branca,E,-,0,Entre 500 e 400,345320
+2018,LP,Branca,F,-,0,Abaixo de 400,45554
+2018,LP,Indígena,*,-,2,Sem nota,9698
+2018,LP,Indígena,A,Falta,9686,Acima de 800,0
+2018,LP,Indígena,B,Presença,24335,Entre 800 e 700,14
+2018,LP,Indígena,C,Eliminação,10,Entre 700 e 600,1403
+2018,LP,Indígena,D,-,0,Entre 600 e 500,9730
+2018,LP,Indígena,E,-,0,Entre 500 e 400,10960
+2018,LP,Indígena,F,-,0,Abaixo de 400,2228
+2018,LP,Parda,*,-,65,Sem nota,653849
+2018,LP,Parda,A,Falta,652954,Acima de 800,3
+2018,LP,Parda,B,Presença,1907458,Entre 800 e 700,2487
+2018,LP,Parda,C,Eliminação,830,Entre 700 e 600,209956
+2018,LP,Parda,D,-,0,Entre 600 e 500,906032
+2018,LP,Parda,E,-,0,Entre 500 e 400,682117
+2018,LP,Parda,F,-,0,Abaixo de 400,106863
+2018,LP,Preta,*,-,21,Sem nota,187714
+2018,LP,Preta,A,Falta,187445,Acima de 800,0
+2018,LP,Preta,B,Presença,510980,Entre 800 e 700,479
+2018,LP,Preta,C,Eliminação,248,Entre 700 e 600,52897
+2018,LP,Preta,D,-,0,Entre 600 e 500,250065
+2018,LP,Preta,E,-,0,Entre 500 e 400,179840
+2018,LP,Preta,F,-,0,Abaixo de 400,27699
+2018,MT,Amarela,*,-,0,Sem nota,35829
+2018,MT,Amarela,A,Falta,35812,Acima de 800,1459
+2018,MT,Amarela,B,Presença,87782,Entre 800 e 700,7510
+2018,MT,Amarela,C,Eliminação,17,Entre 700 e 600,13987
+2018,MT,Amarela,D,-,0,Entre 600 e 500,27064
+2018,MT,Amarela,E,-,0,Entre 500 e 400,32644
+2018,MT,Amarela,F,-,0,Abaixo de 400,5118
+2018,MT,Branca,*,-,57,Sem nota,537193
+2018,MT,Branca,A,Falta,536877,Acima de 800,25832
+2018,MT,Branca,B,Presença,1444461,Entre 800 e 700,173036
+2018,MT,Branca,C,Eliminação,259,Entre 700 e 600,305479
+2018,MT,Branca,D,-,0,Entre 600 e 500,444726
+2018,MT,Branca,E,-,0,Entre 500 e 400,435099
+2018,MT,Branca,F,-,0,Abaixo de 400,60289
+2018,MT,Indígena,*,-,2,Sem nota,11534
+2018,MT,Indígena,A,Falta,11527,Acima de 800,39
+2018,MT,Indígena,B,Presença,22499,Entre 800 e 700,510
+2018,MT,Indígena,C,Eliminação,5,Entre 700 e 600,2104
+2018,MT,Indígena,D,-,0,Entre 600 e 500,6671
+2018,MT,Indígena,E,-,0,Entre 500 e 400,11107
+2018,MT,Indígena,F,-,0,Abaixo de 400,2068
+2018,MT,Parda,*,-,65,Sem nota,768051
+2018,MT,Parda,A,Falta,767674,Acima de 800,8658
+2018,MT,Parda,B,Presença,1793256,Entre 800 e 700,86727
+2018,MT,Parda,C,Eliminação,312,Entre 700 e 600,254005
+2018,MT,Parda,D,-,0,Entre 600 e 500,570921
+2018,MT,Parda,E,-,0,Entre 500 e 400,748624
+2018,MT,Parda,F,-,0,Abaixo de 400,124321
+2018,MT,Preta,*,-,21,Sem nota,219897
+2018,MT,Preta,A,Falta,219792,Acima de 800,1051
+2018,MT,Preta,B,Presença,478797,Entre 800 e 700,15892
+2018,MT,Preta,C,Eliminação,84,Entre 700 e 600,61458
+2018,MT,Preta,D,-,0,Entre 600 e 500,152947
+2018,MT,Preta,E,-,0,Entre 500 e 400,210812
+2018,MT,Preta,F,-,0,Abaixo de 400,36637
+2019,CH,Amarela,*,-,0,Sem nota,26331
+2019,CH,Amarela,A,Falta,26222,Acima de 800,0
+2019,CH,Amarela,B,Presença,89826,Entre 800 e 700,440
+2019,CH,Amarela,C,Eliminação,109,Entre 700 e 600,9994
+2019,CH,Amarela,D,-,0,Entre 600 e 500,35969
+2019,CH,Amarela,E,-,0,Entre 500 e 400,33524
+2019,CH,Amarela,F,-,0,Abaixo de 400,9899
+2019,CH,Branca,*,-,0,Sem nota,380975
+2019,CH,Branca,A,Falta,379519,Acima de 800,29
+2019,CH,Branca,B,Presença,1450775,Entre 800 e 700,12603
+2019,CH,Branca,C,Eliminação,1456,Entre 700 e 600,275466
+2019,CH,Branca,D,-,0,Entre 600 e 500,665450
+2019,CH,Branca,E,-,0,Entre 500 e 400,395995
+2019,CH,Branca,F,-,0,Abaixo de 400,101232
+2019,CH,Indígena,*,-,0,Sem nota,8433
+2019,CH,Indígena,A,Falta,8411,Acima de 800,0
+2019,CH,Indígena,B,Presença,23323,Entre 800 e 700,14
+2019,CH,Indígena,C,Eliminação,22,Entre 700 e 600,824
+2019,CH,Indígena,D,-,0,Entre 600 e 500,7032
+2019,CH,Indígena,E,-,0,Entre 500 e 400,11221
+2019,CH,Indígena,F,-,0,Abaixo de 400,4232
+2019,CH,Parda,*,-,0,Sem nota,565800
+2019,CH,Parda,A,Falta,563947,Acima de 800,6
+2019,CH,Parda,B,Presença,1798211,Entre 800 e 700,4019
+2019,CH,Parda,C,Eliminação,1853,Entre 700 e 600,150374
+2019,CH,Parda,D,-,0,Entre 600 e 500,702945
+2019,CH,Parda,E,-,0,Entre 500 e 400,717432
+2019,CH,Parda,F,-,0,Abaixo de 400,223435
+2019,CH,Preta,*,-,0,Sem nota,165541
+2019,CH,Preta,A,Falta,165000,Acima de 800,1
+2019,CH,Preta,B,Presença,482757,Entre 800 e 700,726
+2019,CH,Preta,C,Eliminação,541,Entre 700 e 600,35221
+2019,CH,Preta,D,-,0,Entre 600 e 500,195597
+2019,CH,Preta,E,-,0,Entre 500 e 400,190852
+2019,CH,Preta,F,-,0,Abaixo de 400,60360
+2019,CN,Amarela,*,-,0,Sem nota,31200
+2019,CN,Amarela,A,Falta,31158,Acima de 800,6
+2019,CN,Amarela,B,Presença,84957,Entre 800 e 700,510
+2019,CN,Amarela,C,Eliminação,42,Entre 700 e 600,5685
+2019,CN,Amarela,D,-,0,Entre 600 e 500,24733
+2019,CN,Amarela,E,-,0,Entre 500 e 400,39516
+2019,CN,Amarela,F,-,0,Abaixo de 400,14507
+2019,CN,Branca,*,-,0,Sem nota,454056
+2019,CN,Branca,A,Falta,453397,Acima de 800,74
+2019,CN,Branca,B,Presença,1377694,Entre 800 e 700,7721
+2019,CN,Branca,C,Eliminação,659,Entre 700 e 600,136544
+2019,CN,Branca,D,-,0,Entre 600 e 500,539468
+2019,CN,Branca,E,-,0,Entre 500 e 400,532940
+2019,CN,Branca,F,-,0,Abaixo de 400,160947
+2019,CN,Indígena,*,-,0,Sem nota,10153
+2019,CN,Indígena,A,Falta,10144,Acima de 800,0
+2019,CN,Indígena,B,Presença,21603,Entre 800 e 700,7
+2019,CN,Indígena,C,Eliminação,9,Entre 700 e 600,271
+2019,CN,Indígena,D,-,0,Entre 600 e 500,3928
+2019,CN,Indígena,E,-,0,Entre 500 e 400,11582
+2019,CN,Indígena,F,-,0,Abaixo de 400,5815
+2019,CN,Parda,*,-,0,Sem nota,665908
+2019,CN,Parda,A,Falta,664996,Acima de 800,17
+2019,CN,Parda,B,Presença,1698103,Entre 800 e 700,2174
+2019,CN,Parda,C,Eliminação,912,Entre 700 e 600,63468
+2019,CN,Parda,D,-,0,Entre 600 e 500,450176
+2019,CN,Parda,E,-,0,Entre 500 e 400,848149
+2019,CN,Parda,F,-,0,Abaixo de 400,334119
+2019,CN,Preta,*,-,0,Sem nota,193997
+2019,CN,Preta,A,Falta,193757,Acima de 800,1
+2019,CN,Preta,B,Presença,454301,Entre 800 e 700,234
+2019,CN,Preta,C,Eliminação,240,Entre 700 e 600,11532
+2019,CN,Preta,D,-,0,Entre 600 e 500,116318
+2019,CN,Preta,E,-,0,Entre 500 e 400,235454
+2019,CN,Preta,F,-,0,Abaixo de 400,90762
+2019,LP,Amarela,*,-,0,Sem nota,26331
+2019,LP,Amarela,A,Falta,26222,Acima de 800,1
+2019,LP,Amarela,B,Presença,89826,Entre 800 e 700,17
+2019,LP,Amarela,C,Eliminação,109,Entre 700 e 600,7097
+2019,LP,Amarela,D,-,0,Entre 600 e 500,51749
+2019,LP,Amarela,E,-,0,Entre 500 e 400,26919
+2019,LP,Amarela,F,-,0,Abaixo de 400,4043
+2019,LP,Branca,*,-,0,Sem nota,380975
+2019,LP,Branca,A,Falta,379519,Acima de 800,1
+2019,LP,Branca,B,Presença,1450775,Entre 800 e 700,774
+2019,LP,Branca,C,Eliminação,1456,Entre 700 e 600,201601
+2019,LP,Branca,D,-,0,Entre 600 e 500,913136
+2019,LP,Branca,E,-,0,Entre 500 e 400,295543
+2019,LP,Branca,F,-,0,Abaixo de 400,39720
+2019,LP,Indígena,*,-,0,Sem nota,8433
+2019,LP,Indígena,A,Falta,8411,Acima de 800,0
+2019,LP,Indígena,B,Presença,23323,Entre 800 e 700,0
+2019,LP,Indígena,C,Eliminação,22,Entre 700 e 600,511
+2019,LP,Indígena,D,-,0,Entre 600 e 500,9941
+2019,LP,Indígena,E,-,0,Entre 500 e 400,10329
+2019,LP,Indígena,F,-,0,Abaixo de 400,2542
+2019,LP,Parda,*,-,0,Sem nota,565800
+2019,LP,Parda,A,Falta,563947,Acima de 800,3
+2019,LP,Parda,B,Presença,1798211,Entre 800 e 700,225
+2019,LP,Parda,C,Eliminação,1853,Entre 700 e 600,100195
+2019,LP,Parda,D,-,0,Entre 600 e 500,979729
+2019,LP,Parda,E,-,0,Entre 500 e 400,617058
+2019,LP,Parda,F,-,0,Abaixo de 400,101001
+2019,LP,Preta,*,-,0,Sem nota,165541
+2019,LP,Preta,A,Falta,165000,Acima de 800,0
+2019,LP,Preta,B,Presença,482757,Entre 800 e 700,24
+2019,LP,Preta,C,Eliminação,541,Entre 700 e 600,22645
+2019,LP,Preta,D,-,0,Entre 600 e 500,270283
+2019,LP,Preta,E,-,0,Entre 500 e 400,163054
+2019,LP,Preta,F,-,0,Abaixo de 400,26751
+2019,MT,Amarela,*,-,0,Sem nota,31200
+2019,MT,Amarela,A,Falta,31158,Acima de 800,1681
+2019,MT,Amarela,B,Presença,84957,Entre 800 e 700,6162
+2019,MT,Amarela,C,Eliminação,42,Entre 700 e 600,13339
+2019,MT,Amarela,D,-,0,Entre 600 e 500,21246
+2019,MT,Amarela,E,-,0,Entre 500 e 400,33650
+2019,MT,Amarela,F,-,0,Abaixo de 400,8879
+2019,MT,Branca,*,-,0,Sem nota,454056
+2019,MT,Branca,A,Falta,453397,Acima de 800,32210
+2019,MT,Branca,B,Presença,1377694,Entre 800 e 700,142594
+2019,MT,Branca,C,Eliminação,659,Entre 700 e 600,317655
+2019,MT,Branca,D,-,0,Entre 600 e 500,365315
+2019,MT,Branca,E,-,0,Entre 500 e 400,422864
+2019,MT,Branca,F,-,0,Abaixo de 400,97056
+2019,MT,Indígena,*,-,0,Sem nota,10153
+2019,MT,Indígena,A,Falta,10144,Acima de 800,28
+2019,MT,Indígena,B,Presença,21603,Entre 800 e 700,294
+2019,MT,Indígena,C,Eliminação,9,Entre 700 e 600,1739
+2019,MT,Indígena,D,-,0,Entre 600 e 500,4752
+2019,MT,Indígena,E,-,0,Entre 500 e 400,11029
+2019,MT,Indígena,F,-,0,Abaixo de 400,3761
+2019,MT,Parda,*,-,0,Sem nota,665908
+2019,MT,Parda,A,Falta,664996,Acima de 800,10444
+2019,MT,Parda,B,Presença,1698103,Entre 800 e 700,65615
+2019,MT,Parda,C,Eliminação,912,Entre 700 e 600,232347
+2019,MT,Parda,D,-,0,Entre 600 e 500,432476
+2019,MT,Parda,E,-,0,Entre 500 e 400,745543
+2019,MT,Parda,F,-,0,Abaixo de 400,211678
+2019,MT,Preta,*,-,0,Sem nota,193997
+2019,MT,Preta,A,Falta,193757,Acima de 800,1201
+2019,MT,Preta,B,Presença,454301,Entre 800 e 700,10812
+2019,MT,Preta,C,Eliminação,240,Entre 700 e 600,53098
+2019,MT,Preta,D,-,0,Entre 600 e 500,116596
+2019,MT,Preta,E,-,0,Entre 500 e 400,211355
+2019,MT,Preta,F,-,0,Abaixo de 400,61239
+2020,CH,Amarela,*,-,0,Sem nota,67370
+2020,CH,Amarela,A,Falta,67270,Acima de 800,18
+2020,CH,Amarela,B,Presença,61152,Entre 800 e 700,1382
+2020,CH,Amarela,C,Eliminação,100,Entre 700 e 600,9492
+2020,CH,Amarela,D,-,0,Entre 600 e 500,20593
+2020,CH,Amarela,E,-,0,Entre 500 e 400,20274
+2020,CH,Amarela,F,-,0,Abaixo de 400,9393
+2020,CH,Branca,*,-,0,Sem nota,966580
+2020,CH,Branca,A,Falta,965043,Acima de 800,708
+2020,CH,Branca,B,Presença,1041053,Entre 800 e 700,37289
+2020,CH,Branca,C,Eliminação,1537,Entre 700 e 600,257052
+2020,CH,Branca,D,-,0,Entre 600 e 500,390818
+2020,CH,Branca,E,-,0,Entre 500 e 400,258645
+2020,CH,Branca,F,-,0,Abaixo de 400,96541
+2020,CH,Indígena,*,-,0,Sem nota,22813
+2020,CH,Indígena,A,Falta,22789,Acima de 800,0
+2020,CH,Indígena,B,Presença,15033,Entre 800 e 700,39
+2020,CH,Indígena,C,Eliminação,24,Entre 700 e 600,869
+2020,CH,Indígena,D,-,0,Entre 600 e 500,4225
+2020,CH,Indígena,E,-,0,Entre 500 e 400,6338
+2020,CH,Indígena,F,-,0,Abaixo de 400,3562
+2020,CH,Parda,*,-,0,Sem nota,1472993
+2020,CH,Parda,A,Falta,1470913,Acima de 800,181
+2020,CH,Parda,B,Presença,1247492,Entre 800 e 700,14194
+2020,CH,Parda,C,Eliminação,2080,Entre 700 e 600,155360
+2020,CH,Parda,D,-,0,Entre 600 e 500,421508
+2020,CH,Parda,E,-,0,Entre 500 e 400,444359
+2020,CH,Parda,F,-,0,Abaixo de 400,211890
+2020,CH,Preta,*,-,0,Sem nota,435721
+2020,CH,Preta,A,Falta,435168,Acima de 800,20
+2020,CH,Preta,B,Presença,336019,Entre 800 e 700,2489
+2020,CH,Preta,C,Eliminação,553,Entre 700 e 600,37677
+2020,CH,Preta,D,-,0,Entre 600 e 500,114296
+2020,CH,Preta,E,-,0,Entre 500 e 400,122259
+2020,CH,Preta,F,-,0,Abaixo de 400,59278
+2020,CN,Amarela,*,-,0,Sem nota,70875
+2020,CN,Amarela,A,Falta,70847,Acima de 800,7
+2020,CN,Amarela,B,Presença,57647,Entre 800 e 700,599
+2020,CN,Amarela,C,Eliminação,28,Entre 700 e 600,5715
+2020,CN,Amarela,D,-,0,Entre 600 e 500,18147
+2020,CN,Amarela,E,-,0,Entre 500 e 400,25282
+2020,CN,Amarela,F,-,0,Abaixo de 400,7897
+2020,CN,Branca,*,-,0,Sem nota,1019904
+2020,CN,Branca,A,Falta,1019366,Acima de 800,104
+2020,CN,Branca,B,Presença,987729,Entre 800 e 700,11175
+2020,CN,Branca,C,Eliminação,538,Entre 700 e 600,140959
+2020,CN,Branca,D,-,0,Entre 600 e 500,395718
+2020,CN,Branca,E,-,0,Entre 500 e 400,350429
+2020,CN,Branca,F,-,0,Abaixo de 400,89344
+2020,CN,Indígena,*,-,0,Sem nota,23798
+2020,CN,Indígena,A,Falta,23790,Acima de 800,0
+2020,CN,Indígena,B,Presença,14048,Entre 800 e 700,5
+2020,CN,Indígena,C,Eliminação,8,Entre 700 e 600,307
+2020,CN,Indígena,D,-,0,Entre 600 e 500,3056
+2020,CN,Indígena,E,-,0,Entre 500 e 400,7438
+2020,CN,Indígena,F,-,0,Abaixo de 400,3242
+2020,CN,Parda,*,-,0,Sem nota,1547103
+2020,CN,Parda,A,Falta,1546461,Acima de 800,18
+2020,CN,Parda,B,Presença,1173382,Entre 800 e 700,3334
+2020,CN,Parda,C,Eliminação,642,Entre 700 e 600,67571
+2020,CN,Parda,D,-,0,Entre 600 e 500,353386
+2020,CN,Parda,E,-,0,Entre 500 e 400,559667
+2020,CN,Parda,F,-,0,Abaixo de 400,189406
+2020,CN,Preta,*,-,0,Sem nota,457306
+2020,CN,Preta,A,Falta,457119,Acima de 800,3
+2020,CN,Preta,B,Presença,314434,Entre 800 e 700,401
+2020,CN,Preta,C,Eliminação,187,Entre 700 e 600,12819
+2020,CN,Preta,D,-,0,Entre 600 e 500,90926
+2020,CN,Preta,E,-,0,Entre 500 e 400,156846
+2020,CN,Preta,F,-,0,Abaixo de 400,53439
+2020,LP,Amarela,*,-,0,Sem nota,67370
+2020,LP,Amarela,A,Falta,67270,Acima de 800,0
+2020,LP,Amarela,B,Presença,61152,Entre 800 e 700,131
+2020,LP,Amarela,C,Eliminação,100,Entre 700 e 600,7894
+2020,LP,Amarela,D,-,0,Entre 600 e 500,30703
+2020,LP,Amarela,E,-,0,Entre 500 e 400,18429
+2020,LP,Amarela,F,-,0,Abaixo de 400,3995
+2020,LP,Branca,*,-,0,Sem nota,966580
+2020,LP,Branca,A,Falta,965043,Acima de 800,1
+2020,LP,Branca,B,Presença,1041053,Entre 800 e 700,3452
+2020,LP,Branca,C,Eliminação,1537,Entre 700 e 600,229253
+2020,LP,Branca,D,-,0,Entre 600 e 500,564338
+2020,LP,Branca,E,-,0,Entre 500 e 400,205962
+2020,LP,Branca,F,-,0,Abaixo de 400,38047
+2020,LP,Indígena,*,-,0,Sem nota,22813
+2020,LP,Indígena,A,Falta,22789,Acima de 800,0
+2020,LP,Indígena,B,Presença,15033,Entre 800 e 700,1
+2020,LP,Indígena,C,Eliminação,24,Entre 700 e 600,627
+2020,LP,Indígena,D,-,0,Entre 600 e 500,5735
+2020,LP,Indígena,E,-,0,Entre 500 e 400,6561
+2020,LP,Indígena,F,-,0,Abaixo de 400,2109
+2020,LP,Parda,*,-,0,Sem nota,1472993
+2020,LP,Parda,A,Falta,1470913,Acima de 800,0
+2020,LP,Parda,B,Presença,1247492,Entre 800 e 700,965
+2020,LP,Parda,C,Eliminação,2080,Entre 700 e 600,122115
+2020,LP,Parda,D,-,0,Entre 600 e 500,605667
+2020,LP,Parda,E,-,0,Entre 500 e 400,418587
+2020,LP,Parda,F,-,0,Abaixo de 400,100158
+2020,LP,Preta,*,-,0,Sem nota,435721
+2020,LP,Preta,A,Falta,435168,Acima de 800,0
+2020,LP,Preta,B,Presença,336019,Entre 800 e 700,182
+2020,LP,Preta,C,Eliminação,553,Entre 700 e 600,29936
+2020,LP,Preta,D,-,0,Entre 600 e 500,167271
+2020,LP,Preta,E,-,0,Entre 500 e 400,112330
+2020,LP,Preta,F,-,0,Abaixo de 400,26300
+2020,MT,Amarela,*,-,0,Sem nota,70875
+2020,MT,Amarela,A,Falta,70847,Acima de 800,1603
+2020,MT,Amarela,B,Presença,57647,Entre 800 e 700,4199
+2020,MT,Amarela,C,Eliminação,28,Entre 700 e 600,9298
+2020,MT,Amarela,D,-,0,Entre 600 e 500,13665
+2020,MT,Amarela,E,-,0,Entre 500 e 400,19069
+2020,MT,Amarela,F,-,0,Abaixo de 400,9813
+2020,MT,Branca,*,-,0,Sem nota,1019904
+2020,MT,Branca,A,Falta,1019366,Acima de 800,30196
+2020,MT,Branca,B,Presença,987729,Entre 800 e 700,97843
+2020,MT,Branca,C,Eliminação,538,Entre 700 e 600,239839
+2020,MT,Branca,D,-,0,Entre 600 e 500,268269
+2020,MT,Branca,E,-,0,Entre 500 e 400,248376
+2020,MT,Branca,F,-,0,Abaixo de 400,103206
+2020,MT,Indígena,*,-,0,Sem nota,23798
+2020,MT,Indígena,A,Falta,23790,Acima de 800,26
+2020,MT,Indígena,B,Presença,14048,Entre 800 e 700,181
+2020,MT,Indígena,C,Eliminação,8,Entre 700 e 600,1054
+2020,MT,Indígena,D,-,0,Entre 600 e 500,2865
+2020,MT,Indígena,E,-,0,Entre 500 e 400,6067
+2020,MT,Indígena,F,-,0,Abaixo de 400,3855
+2020,MT,Parda,*,-,0,Sem nota,1547103
+2020,MT,Parda,A,Falta,1546461,Acima de 800,9498
+2020,MT,Parda,B,Presença,1173382,Entre 800 e 700,42610
+2020,MT,Parda,C,Eliminação,642,Entre 700 e 600,166972
+2020,MT,Parda,D,-,0,Entre 600 e 500,296168
+2020,MT,Parda,E,-,0,Entre 500 e 400,430206
+2020,MT,Parda,F,-,0,Abaixo de 400,227928
+2020,MT,Preta,*,-,0,Sem nota,457306
+2020,MT,Preta,A,Falta,457119,Acima de 800,1154
+2020,MT,Preta,B,Presença,314434,Entre 800 e 700,7089
+2020,MT,Preta,C,Eliminação,187,Entre 700 e 600,37767
+2020,MT,Preta,D,-,0,Entre 600 e 500,79156
+2020,MT,Preta,E,-,0,Entre 500 e 400,121837
+2020,MT,Preta,F,-,0,Abaixo de 400,67431
+2021,CH,Amarela,*,-,0,Sem nota,20742
+2021,CH,Amarela,A,Falta,20670,Acima de 800,27
+2021,CH,Amarela,B,Presença,47749,Entre 800 e 700,1252
+2021,CH,Amarela,C,Eliminação,72,Entre 700 e 600,8032
+2021,CH,Amarela,D,-,0,Entre 600 e 500,16682
+2021,CH,Amarela,E,-,0,Entre 500 e 400,16013
+2021,CH,Amarela,F,-,0,Abaixo de 400,5743
+2021,CH,Branca,*,-,0,Sem nota,328871
+2021,CH,Branca,A,Falta,327221,Acima de 800,752
+2021,CH,Branca,B,Presença,1033385,Entre 800 e 700,40015
+2021,CH,Branca,C,Eliminação,1650,Entre 700 e 600,257147
+2021,CH,Branca,D,-,0,Entre 600 e 500,394262
+2021,CH,Branca,E,-,0,Entre 500 e 400,260037
+2021,CH,Branca,F,-,0,Abaixo de 400,81172
+2021,CH,Indígena,*,-,0,Sem nota,7575
+2021,CH,Indígena,A,Falta,7541,Acima de 800,1
+2021,CH,Indígena,B,Presença,11600,Entre 800 e 700,36
+2021,CH,Indígena,C,Eliminação,34,Entre 700 e 600,752
+2021,CH,Indígena,D,-,0,Entre 600 e 500,3171
+2021,CH,Indígena,E,-,0,Entre 500 e 400,5226
+2021,CH,Indígena,F,-,0,Abaixo de 400,2414
+2021,CH,Parda,*,-,0,Sem nota,483213
+2021,CH,Parda,A,Falta,481501,Acima de 800,169
+2021,CH,Parda,B,Presença,974241,Entre 800 e 700,13900
+2021,CH,Parda,C,Eliminação,1712,Entre 700 e 600,136598
+2021,CH,Parda,D,-,0,Entre 600 e 500,332739
+2021,CH,Parda,E,-,0,Entre 500 e 400,356507
+2021,CH,Parda,F,-,0,Abaixo de 400,134328
+2021,CH,Preta,*,-,0,Sem nota,146576
+2021,CH,Preta,A,Falta,146070,Acima de 800,32
+2021,CH,Preta,B,Presença,264726,Entre 800 e 700,2936
+2021,CH,Preta,C,Eliminação,506,Entre 700 e 600,36036
+2021,CH,Preta,D,-,0,Entre 600 e 500,93065
+2021,CH,Preta,E,-,0,Entre 500 e 400,96134
+2021,CH,Preta,F,-,0,Abaixo de 400,36523
+2021,CN,Amarela,*,-,0,Sem nota,23409
+2021,CN,Amarela,A,Falta,23371,Acima de 800,16
+2021,CN,Amarela,B,Presença,45082,Entre 800 e 700,886
+2021,CN,Amarela,C,Eliminação,38,Entre 700 e 600,4961
+2021,CN,Amarela,D,-,0,Entre 600 e 500,12797
+2021,CN,Amarela,E,-,0,Entre 500 e 400,20744
+2021,CN,Amarela,F,-,0,Abaixo de 400,5678
+2021,CN,Branca,*,-,0,Sem nota,379831
+2021,CN,Branca,A,Falta,379258,Acima de 800,235
+2021,CN,Branca,B,Presença,982425,Entre 800 e 700,16653
+2021,CN,Branca,C,Eliminação,573,Entre 700 e 600,138338
+2021,CN,Branca,D,-,0,Entre 600 e 500,359911
+2021,CN,Branca,E,-,0,Entre 500 e 400,384908
+2021,CN,Branca,F,-,0,Abaixo de 400,82380
+2021,CN,Indígena,*,-,0,Sem nota,8568
+2021,CN,Indígena,A,Falta,8558,Acima de 800,0
+2021,CN,Indígena,B,Presença,10607,Entre 800 e 700,7
+2021,CN,Indígena,C,Eliminação,10,Entre 700 e 600,223
+2021,CN,Indígena,D,-,0,Entre 600 e 500,1957
+2021,CN,Indígena,E,-,0,Entre 500 e 400,5998
+2021,CN,Indígena,F,-,0,Abaixo de 400,2422
+2021,CN,Parda,*,-,0,Sem nota,541149
+2021,CN,Parda,A,Falta,540539,Acima de 800,48
+2021,CN,Parda,B,Presença,916305,Entre 800 e 700,4272
+2021,CN,Parda,C,Eliminação,610,Entre 700 e 600,54783
+2021,CN,Parda,D,-,0,Entre 600 e 500,251156
+2021,CN,Parda,E,-,0,Entre 500 e 400,470082
+2021,CN,Parda,F,-,0,Abaixo de 400,135964
+2021,CN,Preta,*,-,0,Sem nota,163866
+2021,CN,Preta,A,Falta,163674,Acima de 800,7
+2021,CN,Preta,B,Presença,247436,Entre 800 e 700,597
+2021,CN,Preta,C,Eliminação,192,Entre 700 e 600,10601
+2021,CN,Preta,D,-,0,Entre 600 e 500,66242
+2021,CN,Preta,E,-,0,Entre 500 e 400,133107
+2021,CN,Preta,F,-,0,Abaixo de 400,36882
+2021,LP,Amarela,*,-,0,Sem nota,20742
+2021,LP,Amarela,A,Falta,20670,Acima de 800,0
+2021,LP,Amarela,B,Presença,47749,Entre 800 e 700,128
+2021,LP,Amarela,C,Eliminação,72,Entre 700 e 600,4681
+2021,LP,Amarela,D,-,0,Entre 600 e 500,18791
+2021,LP,Amarela,E,-,0,Entre 500 e 400,18567
+2021,LP,Amarela,F,-,0,Abaixo de 400,5582
+2021,LP,Branca,*,-,0,Sem nota,328871
+2021,LP,Branca,A,Falta,327221,Acima de 800,7
+2021,LP,Branca,B,Presença,1033385,Entre 800 e 700,4407
+2021,LP,Branca,C,Eliminação,1650,Entre 700 e 600,157334
+2021,LP,Branca,D,-,0,Entre 600 e 500,499353
+2021,LP,Branca,E,-,0,Entre 500 e 400,304705
+2021,LP,Branca,F,-,0,Abaixo de 400,67579
+2021,LP,Indígena,*,-,0,Sem nota,7575
+2021,LP,Indígena,A,Falta,7541,Acima de 800,0
+2021,LP,Indígena,B,Presença,11600,Entre 800 e 700,2
+2021,LP,Indígena,C,Eliminação,34,Entre 700 e 600,282
+2021,LP,Indígena,D,-,0,Entre 600 e 500,2796
+2021,LP,Indígena,E,-,0,Entre 500 e 400,5520
+2021,LP,Indígena,F,-,0,Abaixo de 400,3000
+2021,LP,Parda,*,-,0,Sem nota,483213
+2021,LP,Parda,A,Falta,481501,Acima de 800,4
+2021,LP,Parda,B,Presença,974241,Entre 800 e 700,1234
+2021,LP,Parda,C,Eliminação,1712,Entre 700 e 600,62565
+2021,LP,Parda,D,-,0,Entre 600 e 500,363946
+2021,LP,Parda,E,-,0,Entre 500 e 400,407330
+2021,LP,Parda,F,-,0,Abaixo de 400,139162
+2021,LP,Preta,*,-,0,Sem nota,146576
+2021,LP,Preta,A,Falta,146070,Acima de 800,0
+2021,LP,Preta,B,Presença,264726,Entre 800 e 700,213
+2021,LP,Preta,C,Eliminação,506,Entre 700 e 600,15203
+2021,LP,Preta,D,-,0,Entre 600 e 500,102161
+2021,LP,Preta,E,-,0,Entre 500 e 400,110670
+2021,LP,Preta,F,-,0,Abaixo de 400,36479
+2021,MT,Amarela,*,-,0,Sem nota,23409
+2021,MT,Amarela,A,Falta,23371,Acima de 800,1161
+2021,MT,Amarela,B,Presença,45082,Entre 800 e 700,4114
+2021,MT,Amarela,C,Eliminação,38,Entre 700 e 600,8103
+2021,MT,Amarela,D,-,0,Entre 600 e 500,11265
+2021,MT,Amarela,E,-,0,Entre 500 e 400,16621
+2021,MT,Amarela,F,-,0,Abaixo de 400,3818
+2021,MT,Branca,*,-,0,Sem nota,379831
+2021,MT,Branca,A,Falta,379258,Acima de 800,23771
+2021,MT,Branca,B,Presença,982425,Entre 800 e 700,112306
+2021,MT,Branca,C,Eliminação,573,Entre 700 e 600,244957
+2021,MT,Branca,D,-,0,Entre 600 e 500,264980
+2021,MT,Branca,E,-,0,Entre 500 e 400,285580
+2021,MT,Branca,F,-,0,Abaixo de 400,50831
+2021,MT,Indígena,*,-,0,Sem nota,8568
+2021,MT,Indígena,A,Falta,8558,Acima de 800,11
+2021,MT,Indígena,B,Presença,10607,Entre 800 e 700,137
+2021,MT,Indígena,C,Eliminação,10,Entre 700 e 600,815
+2021,MT,Indígena,D,-,0,Entre 600 e 500,2247
+2021,MT,Indígena,E,-,0,Entre 500 e 400,5669
+2021,MT,Indígena,F,-,0,Abaixo de 400,1728
+2021,MT,Parda,*,-,0,Sem nota,541149
+2021,MT,Parda,A,Falta,540539,Acima de 800,6328
+2021,MT,Parda,B,Presença,916305,Entre 800 e 700,41156
+2021,MT,Parda,C,Eliminação,610,Entre 700 e 600,137706
+2021,MT,Parda,D,-,0,Entre 600 e 500,242181
+2021,MT,Parda,E,-,0,Entre 500 e 400,397042
+2021,MT,Parda,F,-,0,Abaixo de 400,91892
+2021,MT,Preta,*,-,0,Sem nota,163866
+2021,MT,Preta,A,Falta,163674,Acima de 800,769
+2021,MT,Preta,B,Presença,247436,Entre 800 e 700,7193
+2021,MT,Preta,C,Eliminação,192,Entre 700 e 600,31698
+2021,MT,Preta,D,-,0,Entre 600 e 500,66437
+2021,MT,Preta,E,-,0,Entre 500 e 400,114596
+2021,MT,Preta,F,-,0,Abaixo de 400,26743
+2022,CH,Amarela,*,-,0,Sem nota,19420
+2022,CH,Amarela,A,Falta,19326,Acima de 800,2
+2022,CH,Amarela,B,Presença,46631,Entre 800 e 700,573
+2022,CH,Amarela,C,Eliminação,94,Entre 700 e 600,7480
+2022,CH,Amarela,D,-,0,Entre 600 e 500,20509
+2022,CH,Amarela,E,-,0,Entre 500 e 400,14600
+2022,CH,Amarela,F,-,0,Abaixo de 400,3467
+2022,CH,Branca,*,-,0,Sem nota,342623
+2022,CH,Branca,A,Falta,340728,Acima de 800,86
+2022,CH,Branca,B,Presença,1085458,Entre 800 e 700,16887
+2022,CH,Branca,C,Eliminação,1895,Entre 700 e 600,256265
+2022,CH,Branca,D,-,0,Entre 600 e 500,535603
+2022,CH,Branca,E,-,0,Entre 500 e 400,230369
+2022,CH,Branca,F,-,0,Abaixo de 400,46248
+2022,CH,Indígena,*,-,0,Sem nota,7562
+2022,CH,Indígena,A,Falta,7540,Acima de 800,0
+2022,CH,Indígena,B,Presença,12278,Entre 800 e 700,18
+2022,CH,Indígena,C,Eliminação,22,Entre 700 e 600,600
+2022,CH,Indígena,D,-,0,Entre 600 e 500,4338
+2022,CH,Indígena,E,-,0,Entre 500 e 400,5670
+2022,CH,Indígena,F,-,0,Abaixo de 400,1652
+2022,CH,Parda,*,-,0,Sem nota,457772
+2022,CH,Parda,A,Falta,455773,Acima de 800,26
+2022,CH,Parda,B,Presença,1031072,Entre 800 e 700,5240
+2022,CH,Parda,C,Eliminação,1999,Entre 700 e 600,122542
+2022,CH,Parda,D,-,0,Entre 600 e 500,463637
+2022,CH,Parda,E,-,0,Entre 500 e 400,354996
+2022,CH,Parda,F,-,0,Abaixo de 400,84631
+2022,CH,Preta,*,-,0,Sem nota,134293
+2022,CH,Preta,A,Falta,133714,Acima de 800,3
+2022,CH,Preta,B,Presença,274129,Entre 800 e 700,867
+2022,CH,Preta,C,Eliminação,579,Entre 700 e 600,29457
+2022,CH,Preta,D,-,0,Entre 600 e 500,127608
+2022,CH,Preta,E,-,0,Entre 500 e 400,93570
+2022,CH,Preta,F,-,0,Abaixo de 400,22624
+2022,CN,Amarela,*,-,0,Sem nota,22048
+2022,CN,Amarela,A,Falta,22018,Acima de 800,14
+2022,CN,Amarela,B,Presença,44003,Entre 800 e 700,573
+2022,CN,Amarela,C,Eliminação,30,Entre 700 e 600,4435
+2022,CN,Amarela,D,-,0,Entre 600 e 500,13613
+2022,CN,Amarela,E,-,0,Entre 500 e 400,22559
+2022,CN,Amarela,F,-,0,Abaixo de 400,2809
+2022,CN,Branca,*,-,0,Sem nota,396977
+2022,CN,Branca,A,Falta,396308,Acima de 800,164
+2022,CN,Branca,B,Presença,1031104,Entre 800 e 700,12059
+2022,CN,Branca,C,Eliminação,669,Entre 700 e 600,129182
+2022,CN,Branca,D,-,0,Entre 600 e 500,400371
+2022,CN,Branca,E,-,0,Entre 500 e 400,447966
+2022,CN,Branca,F,-,0,Abaixo de 400,41362
+2022,CN,Indígena,*,-,0,Sem nota,8556
+2022,CN,Indígena,A,Falta,8548,Acima de 800,0
+2022,CN,Indígena,B,Presença,11284,Entre 800 e 700,9
+2022,CN,Indígena,C,Eliminação,8,Entre 700 e 600,240
+2022,CN,Indígena,D,-,0,Entre 600 e 500,2387
+2022,CN,Indígena,E,-,0,Entre 500 e 400,7258
+2022,CN,Indígena,F,-,0,Abaixo de 400,1390
+2022,CN,Parda,*,-,0,Sem nota,517923
+2022,CN,Parda,A,Falta,517276,Acima de 800,43
+2022,CN,Parda,B,Presença,970921,Entre 800 e 700,3018
+2022,CN,Parda,C,Eliminação,647,Entre 700 e 600,50784
+2022,CN,Parda,D,-,0,Entre 600 e 500,291477
+2022,CN,Parda,E,-,0,Entre 500 e 400,552799
+2022,CN,Parda,F,-,0,Abaixo de 400,72800
+2022,CN,Preta,*,-,0,Sem nota,151451
+2022,CN,Preta,A,Falta,151268,Acima de 800,4
+2022,CN,Preta,B,Presença,256971,Entre 800 e 700,427
+2022,CN,Preta,C,Eliminação,183,Entre 700 e 600,9751
+2022,CN,Preta,D,-,0,Entre 600 e 500,74166
+2022,CN,Preta,E,-,0,Entre 500 e 400,152745
+2022,CN,Preta,F,-,0,Abaixo de 400,19878
+2022,LP,Amarela,*,-,0,Sem nota,19420
+2022,LP,Amarela,A,Falta,19326,Acima de 800,0
+2022,LP,Amarela,B,Presença,46631,Entre 800 e 700,91
+2022,LP,Amarela,C,Eliminação,94,Entre 700 e 600,5694
+2022,LP,Amarela,D,-,0,Entre 600 e 500,21511
+2022,LP,Amarela,E,-,0,Entre 500 e 400,15033
+2022,LP,Amarela,F,-,0,Abaixo de 400,4302
+2022,LP,Branca,*,-,0,Sem nota,342623
+2022,LP,Branca,A,Falta,340728,Acima de 800,0
+2022,LP,Branca,B,Presença,1085458,Entre 800 e 700,2933
+2022,LP,Branca,C,Eliminação,1895,Entre 700 e 600,207652
+2022,LP,Branca,D,-,0,Entre 600 e 500,582458
+2022,LP,Branca,E,-,0,Entre 500 e 400,239503
+2022,LP,Branca,F,-,0,Abaixo de 400,52912
+2022,LP,Indígena,*,-,0,Sem nota,7562
+2022,LP,Indígena,A,Falta,7540,Acima de 800,0
+2022,LP,Indígena,B,Presença,12278,Entre 800 e 700,2
+2022,LP,Indígena,C,Eliminação,22,Entre 700 e 600,394
+2022,LP,Indígena,D,-,0,Entre 600 e 500,3965
+2022,LP,Indígena,E,-,0,Entre 500 e 400,5363
+2022,LP,Indígena,F,-,0,Abaixo de 400,2554
+2022,LP,Parda,*,-,0,Sem nota,457772
+2022,LP,Parda,A,Falta,455773,Acima de 800,1
+2022,LP,Parda,B,Presença,1031072,Entre 800 e 700,811
+2022,LP,Parda,C,Eliminação,1999,Entre 700 e 600,88429
+2022,LP,Parda,D,-,0,Entre 600 e 500,467321
+2022,LP,Parda,E,-,0,Entre 500 e 400,362188
+2022,LP,Parda,F,-,0,Abaixo de 400,112322
+2022,LP,Preta,*,-,0,Sem nota,134293
+2022,LP,Preta,A,Falta,133714,Acima de 800,0
+2022,LP,Preta,B,Presença,274129,Entre 800 e 700,123
+2022,LP,Preta,C,Eliminação,579,Entre 700 e 600,21172
+2022,LP,Preta,D,-,0,Entre 600 e 500,129307
+2022,LP,Preta,E,-,0,Entre 500 e 400,94908
+2022,LP,Preta,F,-,0,Abaixo de 400,28619
+2022,MT,Amarela,*,-,0,Sem nota,22048
+2022,MT,Amarela,A,Falta,22018,Acima de 800,1756
+2022,MT,Amarela,B,Presença,44003,Entre 800 e 700,3872
+2022,MT,Amarela,C,Eliminação,30,Entre 700 e 600,8236
+2022,MT,Amarela,D,-,0,Entre 600 e 500,11353
+2022,MT,Amarela,E,-,0,Entre 500 e 400,13927
+2022,MT,Amarela,F,-,0,Abaixo de 400,4859
+2022,MT,Branca,*,-,0,Sem nota,396977
+2022,MT,Branca,A,Falta,396308,Acima de 800,40074
+2022,MT,Branca,B,Presença,1031104,Entre 800 e 700,115048
+2022,MT,Branca,C,Eliminação,669,Entre 700 e 600,272002
+2022,MT,Branca,D,-,0,Entre 600 e 500,287916
+2022,MT,Branca,E,-,0,Entre 500 e 400,247440
+2022,MT,Branca,F,-,0,Abaixo de 400,68624
+2022,MT,Indígena,*,-,0,Sem nota,8556
+2022,MT,Indígena,A,Falta,8548,Acima de 800,29
+2022,MT,Indígena,B,Presença,11284,Entre 800 e 700,177
+2022,MT,Indígena,C,Eliminação,8,Entre 700 e 600,1115
+2022,MT,Indígena,D,-,0,Entre 600 e 500,2680
+2022,MT,Indígena,E,-,0,Entre 500 e 400,4972
+2022,MT,Indígena,F,-,0,Abaixo de 400,2311
+2022,MT,Parda,*,-,0,Sem nota,517923
+2022,MT,Parda,A,Falta,517276,Acima de 800,11555
+2022,MT,Parda,B,Presença,970921,Entre 800 e 700,46001
+2022,MT,Parda,C,Eliminação,647,Entre 700 e 600,167135
+2022,MT,Parda,D,-,0,Entre 600 e 500,274794
+2022,MT,Parda,E,-,0,Entre 500 e 400,348052
+2022,MT,Parda,F,-,0,Abaixo de 400,123384
+2022,MT,Preta,*,-,0,Sem nota,151451
+2022,MT,Preta,A,Falta,151268,Acima de 800,1535
+2022,MT,Preta,B,Presença,256971,Entre 800 e 700,8392
+2022,MT,Preta,C,Eliminação,183,Entre 700 e 600,39262
+2022,MT,Preta,D,-,0,Entre 600 e 500,73859
+2022,MT,Preta,E,-,0,Entre 500 e 400,99017
+2022,MT,Preta,F,-,0,Abaixo de 400,34906

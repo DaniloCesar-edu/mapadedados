@@ -2,27 +2,21 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-import gspread
-from google.oauth2 import service_account
 
-
-# criar as funções de carregamento de dados
-# Configuração de autenticação
-credentials = service_account.Credentials.from_service_account_file(
-    'credentials.json',
-    scopes=["https://www.googleapis.com/auth/spreadsheets",
-            "https://www.googleapis.com/auth/drive"]
-)
-
-# Acessando a planilha
-gc = gspread.authorize(credentials)
-planilha = gc.open("Bases_Mapa_de_Dados")
 
 @st.cache_data
 def carregar_dados(base):
-    aba = planilha.worksheet(base)
-    df = pd.DataFrame(aba.get_all_records())
-    return df
+    """Load data from local CSV files in the 'data' folder."""
+    try:
+        file_path = f"mapadedados/DACOR/data/{base}.csv"  # Assuming files are named like 'Base_SAEB.csv'
+        df = pd.read_csv(file_path)
+        return df
+    except FileNotFoundError:
+        st.error(f"File '{base}.csv' not found in the 'data' folder.")
+        return pd.DataFrame()
+    except Exception as e:
+        st.error(f"Error loading data: {e}")
+        return pd.DataFrame()
 
 
 st.title("""

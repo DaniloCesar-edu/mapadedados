@@ -5,7 +5,7 @@ import altair as alt
 import pandas as pd
 
 # saeb 2011 - 2021
-dados = carregar_dados('Bases_Mapa_de_Dados - Base_SAEB')
+dados = carregar_dados('Base_SAEB')
 #print(dados_saeb.head())
 
 # Garantir que a coluna desempenho_aluno_contagem seja numérica

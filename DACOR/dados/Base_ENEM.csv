@@ -1819,3 +1819,143 @@ ano,disciplina,raca_cor,value,presenca,cont_presenca,nota,cont_nota
 2022,MT,Preta,D,-,0,Entre 600 e 500,73859
 2022,MT,Preta,E,-,0,Entre 500 e 400,99017
 2022,MT,Preta,F,-,0,Abaixo de 400,34906
+2023,CH,Amarela,*,-,0,Sem nota,19351
+2023,CH,Amarela,A,Falta,19262,Acima de 800,5
+2023,CH,Amarela,B,Presença,45161,Entre 800 e 700,575
+2023,CH,Amarela,C,Eliminação,89,Entre 700 e 600,7589
+2023,CH,Amarela,D,-,0,Entre 600 e 500,18409
+2023,CH,Amarela,E,-,0,Entre 500 e 400,13588
+2023,CH,Amarela,F,-,0,Abaixo de 400,4995
+2023,CH,Branca,*,-,0,Sem nota,365787
+2023,CH,Branca,A,Falta,364131,Acima de 800,162
+2023,CH,Branca,B,Presença,1210061,Entre 800 e 700,21603
+2023,CH,Branca,C,Eliminação,1656,Entre 700 e 600,301393
+2023,CH,Branca,D,-,0,Entre 600 e 500,563957
+2023,CH,Branca,E,-,0,Entre 500 e 400,247826
+2023,CH,Branca,F,-,0,Abaixo de 400,75120
+2023,CH,Indígena,*,-,0,Sem nota,9203
+2023,CH,Indígena,A,Falta,9172,Acima de 800,0
+2023,CH,Indígena,B,Presença,15508,Entre 800 e 700,33
+2023,CH,Indígena,C,Eliminação,31,Entre 700 e 600,962
+2023,CH,Indígena,D,-,0,Entre 600 e 500,5252
+2023,CH,Indígena,E,-,0,Entre 500 e 400,6403
+2023,CH,Indígena,F,-,0,Abaixo de 400,2858
+2023,CH,Parda,*,-,0,Sem nota,526771
+2023,CH,Parda,A,Falta,524681,Acima de 800,49
+2023,CH,Parda,B,Presença,1180027,Entre 800 e 700,7795
+2023,CH,Parda,C,Eliminação,2090,Entre 700 e 600,150926
+2023,CH,Parda,D,-,0,Entre 600 e 500,503553
+2023,CH,Parda,E,-,0,Entre 500 e 400,379376
+2023,CH,Parda,F,-,0,Abaixo de 400,138328
+2023,CH,Preta,*,-,0,Sem nota,172696
+2023,CH,Preta,A,Falta,172031,Acima de 800,12
+2023,CH,Preta,B,Presença,336815,Entre 800 e 700,1617
+2023,CH,Preta,C,Eliminação,665,Entre 700 e 600,39577
+2023,CH,Preta,D,-,0,Entre 600 e 500,145522
+2023,CH,Preta,E,-,0,Entre 500 e 400,109006
+2023,CH,Preta,F,-,0,Abaixo de 400,41081
+2023,CN,Amarela,*,-,0,Sem nota,21574
+2023,CN,Amarela,A,Falta,21533,Acima de 800,30
+2023,CN,Amarela,B,Presença,42938,Entre 800 e 700,994
+2023,CN,Amarela,C,Eliminação,41,Entre 700 e 600,4761
+2023,CN,Amarela,D,-,0,Entre 600 e 500,13858
+2023,CN,Amarela,E,-,0,Entre 500 e 400,18186
+2023,CN,Amarela,F,-,0,Abaixo de 400,5109
+2023,CN,Branca,*,-,0,Sem nota,416421
+2023,CN,Branca,A,Falta,415594,Acima de 800,624
+2023,CN,Branca,B,Presença,1159427,Entre 800 e 700,22433
+2023,CN,Branca,C,Eliminação,827,Entre 700 e 600,153925
+2023,CN,Branca,D,-,0,Entre 600 e 500,495432
+2023,CN,Branca,E,-,0,Entre 500 e 400,404173
+2023,CN,Branca,F,-,0,Abaixo de 400,82840
+2023,CN,Indígena,*,-,0,Sem nota,10191
+2023,CN,Indígena,A,Falta,10183,Acima de 800,0
+2023,CN,Indígena,B,Presença,14520,Entre 800 e 700,11
+2023,CN,Indígena,C,Eliminação,8,Entre 700 e 600,340
+2023,CN,Indígena,D,-,0,Entre 600 e 500,3400
+2023,CN,Indígena,E,-,0,Entre 500 e 400,7575
+2023,CN,Indígena,F,-,0,Abaixo de 400,3194
+2023,CN,Parda,*,-,0,Sem nota,583321
+2023,CN,Parda,A,Falta,582314,Acima de 800,115
+2023,CN,Parda,B,Presença,1123477,Entre 800 e 700,5796
+2023,CN,Parda,C,Eliminação,1007,Entre 700 e 600,62516
+2023,CN,Parda,D,-,0,Entre 600 e 500,373304
+2023,CN,Parda,E,-,0,Entre 500 e 400,533930
+2023,CN,Parda,F,-,0,Abaixo de 400,147816
+2023,CN,Preta,*,-,0,Sem nota,190915
+2023,CN,Preta,A,Falta,190604,Acima de 800,20
+2023,CN,Preta,B,Presença,318596,Entre 800 e 700,757
+2023,CN,Preta,C,Eliminação,311,Entre 700 e 600,12678
+2023,CN,Preta,D,-,0,Entre 600 e 500,103572
+2023,CN,Preta,E,-,0,Entre 500 e 400,157194
+2023,CN,Preta,F,-,0,Abaixo de 400,44375
+2023,LP,Amarela,*,-,0,Sem nota,19351
+2023,LP,Amarela,A,Falta,19262,Acima de 800,1
+2023,LP,Amarela,B,Presença,45161,Entre 800 e 700,129
+2023,LP,Amarela,C,Eliminação,89,Entre 700 e 600,5357
+2023,LP,Amarela,D,-,0,Entre 600 e 500,20295
+2023,LP,Amarela,E,-,0,Entre 500 e 400,15858
+2023,LP,Amarela,F,-,0,Abaixo de 400,3521
+2023,LP,Branca,*,-,0,Sem nota,365787
+2023,LP,Branca,A,Falta,364131,Acima de 800,5
+2023,LP,Branca,B,Presença,1210061,Entre 800 e 700,5249
+2023,LP,Branca,C,Eliminação,1656,Entre 700 e 600,223120
+2023,LP,Branca,D,-,0,Entre 600 e 500,651812
+2023,LP,Branca,E,-,0,Entre 500 e 400,281316
+2023,LP,Branca,F,-,0,Abaixo de 400,48559
+2023,LP,Indígena,*,-,0,Sem nota,9203
+2023,LP,Indígena,A,Falta,9172,Acima de 800,0
+2023,LP,Indígena,B,Presença,15508,Entre 800 e 700,6
+2023,LP,Indígena,C,Eliminação,31,Entre 700 e 600,555
+2023,LP,Indígena,D,-,0,Entre 600 e 500,5348
+2023,LP,Indígena,E,-,0,Entre 500 e 400,7194
+2023,LP,Indígena,F,-,0,Abaixo de 400,2405
+2023,LP,Parda,*,-,0,Sem nota,526771
+2023,LP,Parda,A,Falta,524681,Acima de 800,3
+2023,LP,Parda,B,Presença,1180027,Entre 800 e 700,1667
+2023,LP,Parda,C,Eliminação,2090,Entre 700 e 600,98916
+2023,LP,Parda,D,-,0,Entre 600 e 500,539638
+2023,LP,Parda,E,-,0,Entre 500 e 400,440492
+2023,LP,Parda,F,-,0,Abaixo de 400,99311
+2023,LP,Preta,*,-,0,Sem nota,172696
+2023,LP,Preta,A,Falta,172031,Acima de 800,0
+2023,LP,Preta,B,Presença,336815,Entre 800 e 700,321
+2023,LP,Preta,C,Eliminação,665,Entre 700 e 600,25138
+2023,LP,Preta,D,-,0,Entre 600 e 500,155674
+2023,LP,Preta,E,-,0,Entre 500 e 400,126236
+2023,LP,Preta,F,-,0,Abaixo de 400,29446
+2023,MT,Amarela,*,-,0,Sem nota,21574
+2023,MT,Amarela,A,Falta,21533,Acima de 800,1771
+2023,MT,Amarela,B,Presença,42938,Entre 800 e 700,4925
+2023,MT,Amarela,C,Eliminação,41,Entre 700 e 600,7540
+2023,MT,Amarela,D,-,0,Entre 600 e 500,9002
+2023,MT,Amarela,E,-,0,Entre 500 e 400,11928
+2023,MT,Amarela,F,-,0,Abaixo de 400,7772
+2023,MT,Branca,*,-,0,Sem nota,416421
+2023,MT,Branca,A,Falta,415594,Acima de 800,41633
+2023,MT,Branca,B,Presença,1159427,Entre 800 e 700,165805
+2023,MT,Branca,C,Eliminação,827,Entre 700 e 600,296554
+2023,MT,Branca,D,-,0,Entre 600 e 500,285055
+2023,MT,Branca,E,-,0,Entre 500 e 400,250691
+2023,MT,Branca,F,-,0,Abaixo de 400,119689
+2023,MT,Indígena,*,-,0,Sem nota,10191
+2023,MT,Indígena,A,Falta,10183,Acima de 800,33
+2023,MT,Indígena,B,Presença,14520,Entre 800 e 700,347
+2023,MT,Indígena,C,Eliminação,8,Entre 700 e 600,1326
+2023,MT,Indígena,D,-,0,Entre 600 e 500,2871
+2023,MT,Indígena,E,-,0,Entre 500 e 400,5274
+2023,MT,Indígena,F,-,0,Abaixo de 400,4669
+2023,MT,Parda,*,-,0,Sem nota,583321
+2023,MT,Parda,A,Falta,582314,Acima de 800,10951
+2023,MT,Parda,B,Presença,1123477,Entre 800 e 700,66398
+2023,MT,Parda,C,Eliminação,1007,Entre 700 e 600,184442
+2023,MT,Parda,D,-,0,Entre 600 e 500,276084
+2023,MT,Parda,E,-,0,Entre 500 e 400,359350
+2023,MT,Parda,F,-,0,Abaixo de 400,226252
+2023,MT,Preta,*,-,0,Sem nota,190915
+2023,MT,Preta,A,Falta,190604,Acima de 800,1440
+2023,MT,Preta,B,Presença,318596,Entre 800 e 700,12563
+2023,MT,Preta,C,Eliminação,311,Entre 700 e 600,45565
+2023,MT,Preta,D,-,0,Entre 600 e 500,78578
+2023,MT,Preta,E,-,0,Entre 500 e 400,109319
+2023,MT,Preta,F,-,0,Abaixo de 400,71131

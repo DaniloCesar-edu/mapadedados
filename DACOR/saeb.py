@@ -13,7 +13,7 @@ dados['desempenho_aluno_contagem'] = pd.to_numeric(dados['desempenho_aluno_conta
 
 # Calcular total de estudantes por ano, disciplina e raça/cor antes do filtro
 dados_totais = (
-    dados.groupby(['ano', 'disciplina', 'raca_cor', 'desempenho'])['desempenho_aluno_contagem']
+    dados.groupby(['ano', 'disciplina', 'raca_cor'])['desempenho_aluno_contagem']
     .sum()
     .reset_index()
     .rename(columns={'desempenho_aluno_contagem': 'total_estudantes'})
@@ -51,7 +51,7 @@ dados_filtrados = dados.query(
 # Juntar com o total de estudantes correspondente
 dados_merged = dados_filtrados.merge(
     dados_totais, 
-    on=['ano', 'disciplina', 'raca_cor', 'desempenho'], 
+    on=['ano', 'disciplina', 'raca_cor'], 
     how='left'
 )
 

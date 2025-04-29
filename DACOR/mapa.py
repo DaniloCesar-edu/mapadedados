@@ -4,7 +4,7 @@ import pandas as pd
 import altair as alt
 
 
-@st.cache_data
+@st.cache_data(ttl=60)
 def carregar_dados(base):
     """Load data from local CSV files in the 'data' folder."""
     try:

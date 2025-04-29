@@ -62,7 +62,9 @@ dados_merged['percentual'] = (
 )
 
 # Verificar se a coluna foi criada corretamente
-st.write(dados_merged)
+st.write("Verificação de consistência:")
+st.write("Soma de percentuais por grupo:", 
+         dados_merged.groupby(['ano', 'disciplina', 'raca_cor'])['percentual'].sum())
 
 
 # Criar gráfico corrigido

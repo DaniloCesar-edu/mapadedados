@@ -6,7 +6,6 @@ import pandas as pd
 
 # saeb 2011 - 2021
 dados = carregar_dados('Base_SAEB')
-st.write("Actual columns:", dados.columns.tolist()) # debug
 
 # Garantir que a coluna desempenho_aluno_contagem seja numérica
 dados['desempenho_aluno_contagem'] = pd.to_numeric(dados['desempenho_aluno_contagem'], errors='coerce')

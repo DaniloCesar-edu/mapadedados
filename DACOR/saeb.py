@@ -54,11 +54,18 @@ dados_merged = dados_filtrados.merge(
     how='left'
 )
 
+st.write("Contagem de estudantes por filtro:")
+st.write(dados_filtrados.groupby(['ano', 'disciplina', 'raca_cor'])['desempenho_aluno_contagem'].sum())
+
 # Calcular percentual
 # Garantir que o percentual seja calculado corretamente
 dados_merged['percentual'] = (
     dados_merged['desempenho_aluno_contagem'] / dados_merged['total_estudantes'] * 100
 )
+
+st.write("Exemplo de linhas mescladas (amostra):")
+st.write(dados_merged.sample(5)[['ano', 'disciplina', 'raca_cor', 'desempenho_aluno', 
+                               'desempenho_aluno_contagem', 'total_estudantes', 'percentual']])
 
 # Verificar se a coluna foi criada corretamente
 st.write("Verificação de consistência:")

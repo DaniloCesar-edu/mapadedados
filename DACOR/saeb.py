@@ -32,9 +32,9 @@ anos = st.slider(
     value=(int(dados['ano'].min()), int(dados['ano'].max()))  # Default to full range
 )
 
-disciplinas = st.selectbox("Selecione a Disciplina", dados['disciplina'].unique())
+disciplinas = st.multiselect("Selecione a Disciplina", dados['disciplina'].unique())
 desempenho = st.selectbox("Selecione a faixa de Desempenho", dados['desempenho_aluno'].unique())
-series = st.selectbox("Selecione a serie", dados['serie'].unique())
+series = st.multiselect("Selecione a serie", dados['serie'].unique())
 if isinstance(series, (int, str)):
     series = [series]
 

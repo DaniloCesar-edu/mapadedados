@@ -6,7 +6,7 @@ import pandas as pd
 
 # saeb 2011 - 2021
 dados = carregar_dados('Base_SAEB')
-#print(dados_saeb.head())
+st.write("Years available in raw data:", sorted(dados['ano'].unique())) # debug
 
 # Garantir que a coluna desempenho_aluno_contagem seja numérica
 dados['desempenho_aluno_contagem'] = pd.to_numeric(dados['desempenho_aluno_contagem'], errors='coerce')
@@ -29,8 +29,11 @@ anos = st.slider(
     "Selecione o Intervalo de Anos",
     min_value=int(dados['ano'].min()),
     max_value=int(dados['ano'].max()),
-    value=(int(dados['ano'].min()), int(dados['ano'].max()))
+    value=(int(dados['ano'].min()), int(dados['ano'].max()))  # Default to full range
 )
+
+st.write("Missing values per column:")
+st.write(dados.isna().sum())
 
 disciplinas = st.selectbox("Selecione a Disciplina", dados['disciplina'].unique())
 desempenho = st.selectbox("Selecione a faixa de Desempenho", dados['desempenho_aluno'].unique())
@@ -55,6 +58,8 @@ dados_merged = dados_filtrados.merge(
     on=['ano', 'disciplina', 'raca_cor'], 
     how='left'
 )
+
+st.write("Years after merge:", sorted(dados_merged['ano'].unique()))
 
 # Calcular percentual
 # Garantir que o percentual seja calculado corretamente

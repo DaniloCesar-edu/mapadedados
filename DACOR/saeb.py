@@ -54,7 +54,7 @@ dados_merged = dados_filtrados.merge(
     on=['ano', 'disciplina', 'raca_cor', 'desempenho'], 
     how='left'
 )
-dados_merged
+st.write("Dados merged:", dados_merged)
 # Calcular percentual
 # Garantir que o percentual seja calculado corretamente
 dados_merged['percentual'] = (

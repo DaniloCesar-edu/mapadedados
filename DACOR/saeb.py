@@ -10,15 +10,6 @@ dados = carregar_dados('Base_SAEB')
 # Garantir que a coluna desempenho_aluno_contagem seja numérica
 dados['desempenho_aluno_contagem'] = pd.to_numeric(dados['desempenho_aluno_contagem'], errors='coerce')
 
-
-# Calcular total de estudantes por ano, disciplina e raça/cor antes do filtro
-dados_totais = (
-    dados.groupby(['ano', 'disciplina', 'raca_cor'])['desempenho_aluno_contagem']
-    .sum()
-    .reset_index()
-    .rename(columns={'desempenho_aluno_contagem': 'total_estudantes'})
-)
-
 st.write('''
 # SAEB
 ''')
@@ -46,6 +37,14 @@ if isinstance(series, (int, str)):
 dados_filtrados = dados.query(
     "ano >= @anos[0] and ano <= @anos[1] and "
     "disciplina in @disciplinas and desempenho_aluno in @desempenho and serie in @series"
+)
+
+# Calcular total de estudantes por ano, disciplina e raça/cor antes do filtro
+dados_totais = (
+    dados.groupby(['ano', 'disciplina', 'raca_cor'])['desempenho_aluno_contagem']
+    .sum()
+    .reset_index()
+    .rename(columns={'desempenho_aluno_contagem': 'total_estudantes'})
 )
 
 # Juntar com o total de estudantes correspondente

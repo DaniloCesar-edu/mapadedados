@@ -62,7 +62,7 @@ dados_merged['percentual'] = (
 )
 
 # Verificar se a coluna foi criada corretamente
-st.write(dados_merged.head(10))
+st.write(dados_merged)
 
 
 # Criar gráfico corrigido

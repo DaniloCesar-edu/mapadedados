@@ -34,7 +34,7 @@ if isinstance(series, (int, str)):
 #st.write("Séries:", series)
 
 
-dados_filtrados = dados.query("erie in @series")
+dados_filtrados = dados.query("serie in @series")
 
 # Calcular total de estudantes por ano, disciplina e raça/cor antes do filtro
 dados_totais = (

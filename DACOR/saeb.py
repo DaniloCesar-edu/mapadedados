@@ -34,17 +34,27 @@ if isinstance(series, (int, str)):
 #st.write("Séries:", series)
 
 
-dados_filtrados = dados.query(
-    "ano >= @anos[0] and ano <= @anos[1] and "
-    "disciplina in @disciplinas and desempenho_aluno in @desempenho and serie in @series"
-)
+dados_filtrados = dados.query("erie in @series")
 
 # Calcular total de estudantes por ano, disciplina e raça/cor antes do filtro
 dados_totais = (
     dados.groupby(['ano', 'disciplina', 'raca_cor'])['desempenho_aluno_contagem']
-    .sum()
+    .sum() / 2
     .reset_index()
     .rename(columns={'desempenho_aluno_contagem': 'total_estudantes'})
+)
+
+# Verificar alunos únicos vs. registros
+st.write("Total de registros:", len(dados))
+st.write("Alunos únicos:", dados['id_unico'].nunique())
+
+# Checar totais
+st.write("Totais calculados:", dados_totais)
+
+# Agora filtrar pelos outros critérios (ano, disciplina, desempenho)
+dados_filtrados = dados_filtrados_serie.query(
+    "ano >= @anos[0] and ano <= @anos[1] and "
+    "disciplina in @disciplinas and desempenho_aluno in @desempenho"
 )
 
 # Juntar com o total de estudantes correspondente
